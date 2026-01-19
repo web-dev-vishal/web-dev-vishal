@@ -82,9 +82,17 @@ const vishal = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Web-dev-vishal&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 
+---
+
+## 🔥 GitHub Streak Stats
+
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Web-dev-vishal&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Web-dev-vishal&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=FF4500&fire=FF4500&currStreakLabel=FF4500" alt="GitHub Streak Stats" />
 </div>
+
+---
+
+## 📈 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Web-dev-vishal&theme=react-dark&hide_border=true&area=true" width="100%">
