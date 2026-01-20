@@ -75,17 +75,17 @@ const vishal = {
 ### 🛒 **E-Commerce REST API**
 A full-featured e-commerce backend with JWT authentication, product management, and order processing.  
 **Tech Stack:** Node.js, Express, MongoDB, JWT  
-🔗 [https://github.com/web-dev-vishal/E_Commerces_API_Node.js/tree/main](#) | 🚀 [https://e-commerces-api-node-js.onrender.com/](#)
+🔗 [View Repository](https://github.com/web-dev-vishal/E_Commerces_API_Node.js) | 🚀 [Live Demo](https://e-commerces-api-node-js.onrender.com/)
 
-### 💬 **Real-Time Chat Application**
-Scalable chat app with real-time messaging using Socket.io and Redis for session management.  
-**Tech Stack:** Socket.io, Redis, Node.js, Express  
-🔗 [View Repository](#) | 🚀 [Live Demo](#)
+### 🎓 **College Major Project**
+Full-stack web application with real-time messaging using Socket.io and Redis for session management.  
+**Tech Stack:** Socket.io, Redis, Node.js, Express, React.js, Tailwind CSS  
+🔗 [View Repository](https://github.com/web-dev-vishal/Major_project) | 🚀 [Live Demo](https://major-project-6rrg.onrender.com/signin)
 
-### ⚙️ **Task Queue System**
-Distributed task processing system using RabbitMQ for message queuing.  
+### 💰 **Expense Tracker**
+Distributed task processing system using RabbitMQ for message queuing and expense management.  
 **Tech Stack:** RabbitMQ, Node.js, Docker  
-🔗 [View Repository](#)
+🔗 [View Repository](https://github.com/web-dev-vishal/Expense_Tracker)
 
 ---
 
@@ -129,8 +129,8 @@ Distributed task processing system using RabbitMQ for message queuing.
 **Open for internships, freelance projects, and collaborations**
 
 📧 **Email:** vsanam783@gmail.com  
-💼 **LinkedIn:** [Connect with me](#)  
-🌐 **Portfolio:** [View my work](#)
+💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/yourprofile)  
+🌐 **Portfolio:** [View my work](https://yourportfolio.com)
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3r6sz2UB)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/v4vishallll)
