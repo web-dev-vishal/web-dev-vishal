@@ -66,12 +66,12 @@ const vishal = {
 
 ## 🚀 What I'm Currently Working On
 
+- 🤖 Diving into AI and Large Language Models (LLM)
+- 🤝 Open to collaboration on backend and AI projects
 - 🔨 Building scalable microservices architecture
 - 📚 Learning system design patterns and best practices
 - 🐳 Exploring containerization with Docker
-- 🤖 Diving into AI and Large Language Models (LLM)
 - 🌟 Contributing to open-source projects
-- 🤝 Open to collaboration on backend and AI projects
 
 ---
 
@@ -118,13 +118,10 @@ Distributed task processing system using RabbitMQ for message queuing and expens
 </div>
 
 ---
-
 ## 🏆 GitHub Achievements
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Web-dev-vishal&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Web-dev-vishal&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
-
 ---
 
 ## 🤝 Let's Connect!
