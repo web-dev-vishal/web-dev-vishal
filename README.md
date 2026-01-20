@@ -24,8 +24,8 @@ const vishal = {
     location: "Thane, Maharashtra, India",
     education: "BCA 3rd Year",
     role: "Backend Developer",
-    currentFocus: ["Microservices", "System Design", "Database Optimization", "AI & LLM"],
-    learning: ["Docker", "Kubernetes", "GraphQL", "Large Language Models", "AI Integration"],
+    currentFocus: [ "AI & LLM", "Microservices", "System Design", "Database Optimization"],
+    learning: ["Large Language Models", "AI Integration" , "Kubernetes", "GraphQL"],
     openTo: ["Full-time Jobs", "Internships", "Freelance", "Open Source"]
 };
 ```
@@ -144,18 +144,6 @@ I'm actively seeking opportunities to contribute my backend development and AI s
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vsanam783@gmail.com)
 
 </div>
-
----
-
-<div align="center">
-  
-💡 **Random Dev Quote**
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
