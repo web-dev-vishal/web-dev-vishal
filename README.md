@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vishal%20Sanam&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Backend+Developer+%F0%9F%9A%80;API+Architect+%F0%9F%8C%90;BCA+Student+%F0%9F%93%9A;Always+Learning+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Backend+Developer+%F0%9F%9A%80;API+Architect+%F0%9F%8C%90;AI+%26+LLM+Enthusiast+%F0%9F%A4%96;BCA+Student+%F0%9F%93%9A;Always+Learning+%F0%9F%92%A1" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -18,15 +18,15 @@
 
 ## 👨‍💻 About Me
 
-I'm a **backend developer** specializing in building scalable RESTful APIs and server-side applications. Currently pursuing BCA (3rd Year), I'm passionate about clean code and eager to collaborate on meaningful projects.
+I'm a **backend developer** specializing in building scalable RESTful APIs and server-side applications. Currently pursuing BCA (3rd Year), I'm passionate about clean code, AI/LLM technologies, and eager to collaborate on meaningful projects.
 ```javascript
 const vishal = {
     location: "Thane, Maharashtra, India",
     education: "BCA 3rd Year",
     role: "Backend Developer",
-    currentFocus: ["Microservices", "System Design", "Database Optimization"],
-    learning: ["Docker", "Kubernetes", "GraphQL"],
-    openTo: ["Internships", "Freelance", "Open Source"]
+    currentFocus: ["Microservices", "System Design", "Database Optimization", "AI & LLM"],
+    learning: ["Docker", "Kubernetes", "GraphQL", "Large Language Models", "AI Integration"],
+    openTo: ["Full-time Jobs", "Internships", "Freelance", "Open Source"]
 };
 ```
 
@@ -48,6 +48,10 @@ const vishal = {
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
+**AI & LLM:**  
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
 **DevOps & Tools:**  
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -65,8 +69,9 @@ const vishal = {
 - 🔨 Building scalable microservices architecture
 - 📚 Learning system design patterns and best practices
 - 🐳 Exploring containerization with Docker
+- 🤖 Diving into AI and Large Language Models (LLM)
 - 🌟 Contributing to open-source projects
-- 🤝 Open to collaboration on backend projects
+- 🤝 Open to collaboration on backend and AI projects
 
 ---
 
@@ -126,7 +131,9 @@ Distributed task processing system using RabbitMQ for message queuing and expens
 
 <div align="center">
 
-**Open for internships, freelance projects, and collaborations**
+**💼 Open for full-time jobs, internships, freelance projects, and collaborations!**
+
+I'm actively seeking opportunities to contribute my backend development and AI skills to innovative teams. Let's build something amazing together!
 
 📧 **Email:** vsanam783@gmail.com  
 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/yourprofile)  
@@ -138,11 +145,23 @@ Distributed task processing system using RabbitMQ for message queuing and expens
 
 </div>
 
+---
 
+<div align="center">
+  
+💡 **Random Dev Quote**
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
   
   **⭐ From [Web-dev-vishal](https://github.com/Web-dev-vishal) | Made with ❤️ and ☕**
+  
+  ![Visitor Count](https://visitcount.itsvg.in/api?id=Web-dev-vishal&icon=0&color=0)
   
 </div>
