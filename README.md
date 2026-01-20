@@ -138,17 +138,7 @@ Distributed task processing system using RabbitMQ for message queuing and expens
 
 </div>
 
----
 
-<div align="center">
-  
-💡 **Random Dev Quote**
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
