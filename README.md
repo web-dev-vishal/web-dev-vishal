@@ -75,7 +75,7 @@ const vishal = {
 ### 🛒 **E-Commerce REST API**
 A full-featured e-commerce backend with JWT authentication, product management, and order processing.  
 **Tech Stack:** Node.js, Express, MongoDB, JWT  
-🔗 [View Repository](#) | 🚀 [Live Demo](#)
+🔗 [https://github.com/web-dev-vishal/E_Commerces_API_Node.js/tree/main](#) | 🚀 [https://e-commerces-api-node-js.onrender.com/](#)
 
 ### 💬 **Real-Time Chat Application**
 Scalable chat app with real-time messaging using Socket.io and Redis for session management.  
