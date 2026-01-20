@@ -155,6 +155,4 @@ Distributed task processing system using RabbitMQ for message queuing and expens
   
   **⭐ From [Web-dev-vishal](https://github.com/Web-dev-vishal) | Made with ❤️ and ☕**
   
-  ![Visitor Count](https://visitcount.itsvg.in/api?id=Web-dev-vishal&icon=0&color=0)
-  
 </div>
