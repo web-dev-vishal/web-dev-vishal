@@ -117,13 +117,6 @@ Distributed task processing system using RabbitMQ for message queuing and expens
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Web-dev-vishal&theme=react-dark&hide_border=true&area=true" width="100%">
 </div>
 
----
-## 🏆 GitHub Achievements
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Web-dev-vishal&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
----
-
 ## 🤝 Let's Connect!
 
 <div align="center">
@@ -145,8 +138,5 @@ I'm actively seeking opportunities to contribute my backend development and AI s
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
   
-  **⭐ From [Web-dev-vishal](https://github.com/Web-dev-vishal) | Made with ❤️ and ☕**
-  
-  ![Visitor Count](https://visitcount.itsvg.in/api?id=Web-dev-vishal&icon=0&color=0)
-  
+  **⭐ From [Web-dev-vishal](https://github.com/Web-dev-vishal) | Made with ❤️ and ☕**  
 </div>
