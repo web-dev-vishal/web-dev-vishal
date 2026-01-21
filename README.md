@@ -126,7 +126,7 @@ Distributed task processing system using RabbitMQ for message queuing and expens
 I'm actively seeking opportunities to contribute my backend development and AI skills to innovative teams. Let's build something amazing together!
 
 📧 **Email:** vsanam783@gmail.com  
-💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/yourprofile)  
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/feed/)  
 🌐 **Portfolio:** [View my work](https://yourportfolio.com)
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3r6sz2UB)
