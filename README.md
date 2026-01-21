@@ -84,12 +84,12 @@ A full-featured e-commerce backend with JWT authentication, product management, 
 
 ### 🎓 **College Major Project**
 Full-stack web application with real-time messaging using Socket.io and Redis for session management.  
-**Tech Stack:** Socket.io, Redis, Node.js, Express, React.js, Tailwind CSS  
+**Tech Stack:** Socket.io, Node.js, Express, React.js, Tailwind CSS  
 🔗 [View Repository](https://github.com/web-dev-vishal/Major_project) | 🚀 [Live Demo](https://major-project-6rrg.onrender.com/signin)
 
 ### 💰 **Expense Tracker**
 Distributed task processing system using RabbitMQ for message queuing and expense management.  
-**Tech Stack:** RabbitMQ, Node.js, Docker  
+**Tech Stack:** Node.js, RabbitMQ, Redis, Docker
 🔗 [View Repository](https://github.com/web-dev-vishal/Expense_Tracker)
 
 ---
