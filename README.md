@@ -196,16 +196,6 @@ Distributed expense management system leveraging RabbitMQ for asynchronous task 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Web-dev-vishal&theme=react-dark&hide_border=true&area=true" width="100%">
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Web-dev-vishal&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -216,15 +206,6 @@ Distributed expense management system leveraging RabbitMQ for asynchronous task 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Web-dev-vishal&theme=radical" alt="Top Languages by Repo" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Web-dev-vishal&theme=radical" alt="Top Languages by Commit" />
 </div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/Web-dev-vishal/Web-dev-vishal/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
 ---
 
 ## 🤝 Let's Connect & Collaborate!
