@@ -1,13 +1,3 @@
-Here's your cleaned up and improved GitHub profile README:
-
-- **Fixed syntax errors**: Removed backslash in JavaScript object and added missing closing brace
-- **Fixed broken links**: Removed spaces before closing parentheses that broke markdown links
-- **Removed duplicates**: Eliminated redundant social badges section
-- **Fixed LinkedIn URL**: Changed from `/feed/` to proper profile format
-- **Added missing tech**: TypeScript, testing tools, AWS (learning), PostgreSQL (commonly used with Prisma)
-- **Cleaned formatting**: Removed placeholder portfolio link and fixed color list syntax
-
-```markdown
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vishal%20Sanam&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
   
