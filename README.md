@@ -12,7 +12,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Web-dev-vishal&color=blueviolet&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/Web-dev-vishal?style=social)](https://github.com/Web-dev-vishal)
 [![GitHub Stars](https://img.shields.io/github/stars/Web-dev-vishal?style=social)](https://github.com/Web-dev-vishal)
 
 </div>
