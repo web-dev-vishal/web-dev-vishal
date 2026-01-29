@@ -59,7 +59,6 @@ const vishal = {
 
 <br clear="right"/>
 
----
 
 ## 🛠️ Technical Arsenal
 
@@ -102,8 +101,6 @@ const vishal = {
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 </div>
 
----
-
 ## 🚀 What I'm Currently Working On
 
 <table>
@@ -130,8 +127,6 @@ const vishal = {
 </td>
 </tr>
 </table>
-
----
 
 ## 💼 Featured Projects
 
@@ -161,8 +156,6 @@ Full-stack web application featuring real-time messaging with Socket.io, session
 [![Repository](https://img.shields.io/badge/Repo-View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/web-dev-vishal/Major_project) 
 [![Live Demo](https://img.shields.io/badge/Demo-Try%20It%20Live-46E3B7?style=for-the-badge&logo=render)](https://major-project-6rrg.onrender.com/signin)
 
----
-
 ### 💰 **Expense Tracker with Message Queue**
 <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" /> <img src="https://img.shields.io/badge/Architecture-Microservices-blueviolet?style=flat-square" />
 
@@ -175,8 +168,6 @@ Distributed expense management system leveraging RabbitMQ for asynchronous task 
 
 </div>
 
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -184,7 +175,6 @@ Distributed expense management system leveraging RabbitMQ for asynchronous task 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Web-dev-vishal&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8"/>
 </div>
 
----
 
 ## 🔥 GitHub Streak & Activity
 
@@ -206,7 +196,6 @@ Distributed expense management system leveraging RabbitMQ for asynchronous task 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Web-dev-vishal&theme=radical" alt="Top Languages by Repo" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Web-dev-vishal&theme=radical" alt="Top Languages by Commit" />
 </div>
----
 
 ## 🤝 Let's Connect & Collaborate!
 
@@ -248,8 +237,6 @@ I'm actively seeking full-time positions, internships, and freelance projects wh
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Web-dev-vishal)
 
 </div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
