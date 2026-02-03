@@ -155,6 +155,8 @@ Full-stack web application featuring real-time messaging with Socket.io, session
 [![Repository](https://img.shields.io/badge/Repo-View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/web-dev-vishal/Major_project) 
 [![Live Demo](https://img.shields.io/badge/Demo-Try%20It%20Live-46E3B7?style=for-the-badge&logo=render)](https://major-project-6rrg.onrender.com/signin)
 
+---
+
 ### 💰 **Expense Tracker with Message Queue**
 <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" /> <img src="https://img.shields.io/badge/Architecture-Microservices-blueviolet?style=flat-square" />
 
