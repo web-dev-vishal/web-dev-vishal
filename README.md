@@ -32,7 +32,7 @@ const vishal = {
   techStack: {
     languages: ["JavaScript", "Node.js"],
     backend: ["Express.js", "Socket.io", "REST APIs"],
-    databases: ["MongoDB", "Redis", "Prisma ORM"],
+    databases: ["MongoDB", "Redis", "Prisma ORM", "Mongoose"],
     ai: ["OpenAI", "LangChain", "LLM Integration"],
     devOps: ["Docker", "GitHub Actions", "RabbitMQ"],
   },
@@ -71,6 +71,8 @@ I'm passionate about creating **robust, scalable backend systems** that power mo
 <p>
   <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,redis,prisma&theme=dark" />
 </p>
+
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
 
 ### AI & Cloud
 
