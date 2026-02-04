@@ -1,118 +1,232 @@
-&lt;!-- Banner --&gt;
-&lt;div align="center"&gt;
-  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Your%20Name&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20DevOps%20Engineer&descAlignY=55&descSize=18" width="100%" /&gt;
-&lt;/div&gt;
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vishal%20Sanam&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer%20%7C%20API%20Architect%20%7C%20AI%20Enthusiast&descSize=20&descAlignY=55" width="100%"/>
+</div>
 
-&lt;!-- Professional Badges --&gt;
-&lt;p align="center"&gt;
-  &lt;a href="https://linkedin.com/in/yourprofile"&gt;
-    &lt;img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /&gt;
-  &lt;/a&gt;
-  &lt;a href="mailto:your.email@example.com"&gt;
-    &lt;img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /&gt;
-  &lt;/a&gt;
-  &lt;a href="https://yourportfolio.com"&gt;
-    &lt;img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /&gt;
-  &lt;/a&gt;
-  &lt;img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" /&gt;
-&lt;/p&gt;
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;Building+Scalable+APIs+%F0%9F%8C%90;AI+%26+LLM+Integration+%F0%9F%A4%96;Clean+Code+Advocate+%F0%9F%92%BB)](https://git.io/typing-svg)
 
-&lt;!-- Typing Animation --&gt;
-&lt;p align="center"&gt;
-  &lt;img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Building+scalable+systems;Clean+code+advocate;Problem+solver;Continuous+learner" alt="Typing SVG" /&gt;
-&lt;/p&gt;
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-sanam)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vsanam783@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3r6sz2UB)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/v4vishallll)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Web-dev-vishal&color=0e75b6&style=for-the-badge)
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a passionate developer focused on building **high-performance, scalable applications**. I specialize in modern web technologies and cloud infrastructure, with a strong emphasis on **clean architecture** and **DevOps practices**.
+```typescript
+const vishal = {
+  location: "Thane, Maharashtra, India 🇮🇳",
+  education: "BCA 3rd Year",
+  role: "Backend Developer",
+  
+  techStack: {
+    languages: ["JavaScript", "Node.js"],
+    backend: ["Express.js", "Socket.io", "REST APIs"],
+    databases: ["MongoDB", "Redis", "Prisma ORM"],
+    ai: ["OpenAI", "LangChain", "LLM Integration"],
+    devOps: ["Docker", "GitHub Actions", "RabbitMQ"],
+  },
+  
+  currentFocus: [
+    "Building scalable microservices architecture",
+    "AI & LLM integration in backend systems",
+    "Real-time applications with WebSockets",
+    "Message queue systems & event-driven design",
+  ],
+  
+  openTo: ["Full-time Opportunities", "Internships", "Freelance Projects"],
+};
+```
 
-- 🔭 Currently working on **[Project Name]**
-- 🌱 Learning **Rust** and **Kubernetes**
-- 💬 Ask me about **System Design, Node.js, Docker**
-- ⚡ Fun fact: I optimize code in my dreams
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+### 🎯 What Drives Me
+
+I'm passionate about creating **robust, scalable backend systems** that power modern applications. My expertise lies in designing RESTful APIs, implementing real-time features, and integrating cutting-edge AI technologies.
+
+**Current Learning:** Kubernetes • GraphQL • Advanced System Design
+
+**Ask me about:** API Architecture • Database Optimization • AI Integration
+
+<br clear="right"/>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-&lt;p align="left"&gt;
-  &lt;img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /&gt;
-  &lt;img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" /&gt;
-&lt;/p&gt;
+<div align="center">
 
-### Frontend
-&lt;p align="left"&gt;
-  &lt;img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /&gt;
-  &lt;img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /&gt;
-&lt;/p&gt;
+### Core Technologies
 
-### Backend & Database
-&lt;p align="left"&gt;
-  &lt;img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /&gt;
-&lt;/p&gt;
+<p>
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,redis,prisma&theme=dark" />
+</p>
 
-### DevOps & Tools
-&lt;p align="left"&gt;
-  &lt;img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" /&gt;
-&lt;/p&gt;
+### AI & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman&theme=dark" />
+</p>
+
+### Additional Skills
+
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=flat-square)
+
+</div>
 
 ---
 
-## 📊 GitHub Analytics
+## 🚀 Featured Projects
 
-&lt;div align="center"&gt;
-  &lt;img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9" /&gt;
-  &lt;img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9" /&gt;
-&lt;/div&gt;
+<div align="center">
 
-&lt;div align="center"&gt;
-  &lt;img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=667eea&ring=667eea&fire=ff6b6b&currStreakLabel=667eea" alt="GitHub Streak" /&gt;
-&lt;/div&gt;
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 E-Commerce REST API
+Production-ready backend with comprehensive e-commerce features
+
+**Tech:** Node.js • Express • MongoDB • JWT
+
+**Features:**
+- 🔐 JWT Authentication & RBAC
+- 📦 Product & Inventory Management
+- 🛒 Shopping Cart & Orders
+- 💳 Payment Integration
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/web-dev-vishal/E_Commerces_API_Node.js)
+[![Live](https://img.shields.io/badge/Live-Demo-46E3B7?style=for-the-badge&logo=render)](https://e-commerces-api-node-js.onrender.com/)
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 Real-Time Chat Application
+Full-stack app with WebSocket & Redis integration
+
+**Tech:** Socket.io • React • Tailwind • Redis
+
+**Features:**
+- 💬 Real-time Messaging
+- 🔄 Session Management
+- 📱 Responsive Design
+- 👥 User Authentication
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/web-dev-vishal/Major_project)
+[![Live](https://img.shields.io/badge/Live-Demo-46E3B7?style=for-the-badge&logo=render)](https://major-project-6rrg.onrender.com/signin)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 💰 Expense Tracker with Message Queue
+Distributed system using microservices architecture
+
+**Tech:** Node.js • RabbitMQ • Redis • Docker
+
+**Features:**
+- 🐰 Asynchronous task processing with RabbitMQ
+- ⚡ Redis caching for performance
+- 🐳 Containerized deployment with Docker
+- 📊 Event-driven architecture
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/web-dev-vishal/Expense_Tracker)
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 🏆 Featured Projects
+## 📊 GitHub Statistics
 
-&lt;div align="center"&gt;
-  &lt;a href="https://github.com/YOUR_USERNAME/project-1"&gt;
-    &lt;img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project-1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9" /&gt;
-  &lt;/a&gt;
-  &lt;a href="https://github.com/YOUR_USERNAME/project-2"&gt;
-    &lt;img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project-2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9" /&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Web-dev-vishal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Web-dev-vishal&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6"/>
+</div>
 
----
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Web-dev-vishal&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=f97316&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
+</div>
 
-## 📈 Activity Graph
-
-&lt;img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=667eea&line=667eea&point=ff6b6b&area=true&hide_border=true" width="100%"/&gt;
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Web-dev-vishal&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
+</div>
 
 ---
 
-## 📝 Latest Blog Posts
+## 🏆 GitHub Trophies
 
-&lt;!-- BLOG-POST-LIST:START --&gt;
-- [How to Build Scalable Microservices](https://yourblog.com/post-1)
-- [Docker Best Practices for Production](https://yourblog.com/post-2)
-- [System Design Interview Guide](https://yourblog.com/post-3)
-&lt;!-- BLOG-POST-LIST:END --&gt;
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Web-dev-vishal&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+</div>
 
 ---
 
-&lt;div align="center"&gt;
-  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" width="100%" /&gt;
-&lt;/div&gt;
+## 💼 Let's Connect
+
+<div align="center">
+
+I'm actively seeking **full-time positions** and **internship opportunities** where I can contribute my backend development expertise and passion for building scalable systems.
+
+**Open to:** Backend Development Roles • AI/ML Integration Projects • API Architecture Positions
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 📧 Email
+**[vsanam783@gmail.com](mailto:vsanam783@gmail.com)**
+
+</td>
+<td align="center" width="33%">
+
+### 💼 LinkedIn
+**[Connect with me](https://www.linkedin.com/in/vishal-sanam)**
+
+</td>
+<td align="center" width="33%">
+
+### 🐙 GitHub
+**[@Web-dev-vishal](https://github.com/Web-dev-vishal)**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3r6sz2UB)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/v4vishallll)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Web-dev-vishal)
+
+<br>
+
+**💡 If you find my work valuable, consider giving it a ⭐ and following me for more!**
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+  
+  <sub>Made with ❤️ by Vishal Sanam</sub>
+</div>
