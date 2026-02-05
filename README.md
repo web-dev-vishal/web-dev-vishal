@@ -1,3 +1,295 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vishal%20Sanam&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer%20%7C%20API%20Architect%20%7C%20AI%20Enthusiast&descSize=20&descAlignY=55" width="100%" alt="Header Banner"/>
+</div>
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;Building+Scalable+APIs+%F0%9F%8C%90;AI+%26+LLM+Integration+%F0%9F%A4%96;Clean+Code+Advocate+%F0%9F%92%BB)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/vishal-sanam">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:vsanam783@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
+  </a>
+  <a href="https://discord.gg/3r6sz2UB">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" alt="Discord"/>
+  </a>
+  <a href="https://instagram.com/v4vishallll">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Web-dev-vishal&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Web-dev-vishal?style=for-the-badge&color=0e75b6&labelColor=1a1a1a&logo=github&label=FOLLOWERS" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Web-dev-vishal?style=for-the-badge&color=0e75b6&labelColor=1a1a1a&logo=github&label=STARS" alt="Stars"/>
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider">
+
+<br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" alt="Code Icon"> About Me
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+```typescript
+const vishal = {
+  location: "Thane, Maharashtra, India 🇮🇳",
+  education: "BCA 3rd Year 🎓",
+  role: "Backend Developer 💻",
+  
+  techStack: {
+    languages: ["JavaScript", "Node.js"],
+    backend: ["Express.js", "Socket.io", "REST APIs"],
+    databases: ["MongoDB", "Redis", "Prisma ORM", "Mongoose"],
+    ai: ["OpenAI", "LangChain", "LLM Integration"],
+    devOps: ["Docker", "GitHub Actions", "RabbitMQ"],
+  },
+  
+  currentFocus: [
+    "🏗️ Building scalable microservices architecture",
+    "🤖 AI & LLM integration in backend systems",
+    "⚡ Real-time applications with WebSockets",
+    "📮 Message queue systems & event-driven design",
+  ],
+  
+  openTo: ["Full-time", "Internships", "Freelance"],
+  
+  dailyRoutine: {
+    code: "☕ + 💻 = 🚀",
+    learn: "📚 Always expanding knowledge",
+    build: "🔨 Creating scalable solutions",
+  }
+};
+```
+
+<br>
+
+### 🎯 What Drives Me
+
+<table>
+<tr>
+<td width="50%">
+
+#### 💡 Philosophy
+I'm passionate about creating **robust, scalable backend systems** that power modern applications. My expertise lies in designing RESTful APIs, implementing real-time features, and integrating cutting-edge AI technologies.
+
+</td>
+<td width="50%">
+
+#### 🌱 Currently Learning
+- **Kubernetes** - Container orchestration
+- **GraphQL** - Modern API design
+- **System Design** - Large-scale architecture
+- **LLM Integration** - AI-powered backends
+
+</td>
+</tr>
+</table>
+
+**💬 Ask me about:** API Architecture • Database Optimization • AI Integration • WebSocket Development
+
+<br clear="right"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider">
+
+<br>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" alt="Tech Stack Icon"> Tech Stack & Tools
+
+<div align="center">
+
+### 💻 Core Technologies
+
+<table>
+<tr>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+  <br>JavaScript
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+  <br>Node.js
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+  <br>Express.js
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+  <br>MongoDB
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+  <br>Redis
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" />
+  <br>Prisma
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+  <br>Docker
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+  <br>Git
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+  <br>GitHub
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+  <br>Postman
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+  <br>VS Code
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+  <br>Linux
+</td>
+</tr>
+</table>
+
+### 🔧 Additional Technologies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose"/>
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
+</p>
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider">
+
+<br>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" alt="Projects Icon"> Featured Projects
+
+<div align="center">
+
+<table border="0">
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🛒 E-Commerce REST API
+
+<img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge&logo=vercel&logoColor=white" alt="Status"/>
+<img src="https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge&logo=semver&logoColor=white" alt="Version"/>
+
+</div>
+
+Production-ready backend with comprehensive e-commerce features
+
+**🛠️ Built With**
+```
+Node.js • Express.js • MongoDB 
+JWT • Bcrypt • REST API
+```
+
+**✨ Key Features**
+- 🔐 Secure authentication with JWT
+- 👥 Role-based access control
+- 📦 Complete product management
+- 🛒 Shopping cart functionality
+- 💳 Payment gateway integration
+- 📊 Admin dashboard APIs
+
+<div align="center">
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/web-dev-vishal/E_Commerces_API_Node.js)
+[![Live](https://img.shields.io/badge/Live-Try_Demo-46E3B7?style=for-the-badge&logo=render)](https://e-commerces-api-node-js.onrender.com/)
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 💬 Real-Time Chat App
+
+<img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge&logo=vercel&logoColor=white" alt="Status"/>
+<img src="https://img.shields.io/badge/Type-Full_Stack-orange?style=for-the-badge&logo=react&logoColor=white" alt="Type"/>
+
+</div>
+
+Full-stack application with WebSocket & Redis
+
+**🛠️ Built With**
+```
+Socket.io • React.js • Tailwind CSS
+Node.js • Express • Redis
+```
+
+**✨ Key Features**
+- 💬 Real-time message delivery
+- 🔄 Redis session management
+- 📱 Fully responsive design
+- 👥 User authentication
+- 🎨 Modern UI with Tailwind
+- ⚡ Optimized performance
+
+<div align="center">
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/web-dev-vishal/Major_project)
+[![Live](https://img.shields.io/badge/Live-Try_Demo-46E3B7?style=for-the-badge&logo=render)](https://major-project-6rrg.onrender.com/signin)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table border="0">
+<tr>
+<td width="100%" valign="top">
+
+<div align="center">
+
+### 💰 Expense Tracker - Microservices Architecture
+
+<img src="https://img.shields.io/badge/Status-Active_Development-yellow?style=for-the-badge&logo=github&logoColor=white" alt="Status"/>
+<img src="https://img.shields.io/badge/Architecture-Microservices-blueviolet?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Architecture"/>
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="50%">
+
+**🛠️ Built With**
+```
+Node.js • Express.js • RabbitMQ
+Redis • Docker • Event-Driven
+```
+
 **✨ Key Features**
 - 🐰 RabbitMQ message queuing
 - ⚡ Redis caching layer
