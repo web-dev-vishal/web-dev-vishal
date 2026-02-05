@@ -1,62 +1,55 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vishal%20Sanam&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer%20%7C%20API%20Architect%20%7C%20AI%20Enthusiast&descSize=20&descAlignY=55" width="100%"/>
-</div>
+<!-- ===================== HEADER ===================== -->
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=210&section=header&text=Vishal%20Sanam&fontSize=40&fontAlignY=35&desc=Backend%20Developer%20|%20Node.js%20|%20System%20Design&descAlignY=55" 
+  width="100%" 
+/>
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%9A%80;Building+Scalable+APIs+%F0%9F%8C%90;AI+%26+LLM+Integration+%F0%9F%A4%96;Clean+Code+Advocate+%F0%9F%92%BB)](https://git.io/typing-svg)
+<!-- ===================== TYPING EFFECT ===================== -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=800&center=true&vCenter=true&width=700&lines=Backend+Developer+%7C+Node.js+%7C+Express.js;MongoDB+%7C+PostgreSQL+%7C+Redis;JWT+Auth+%7C+REST+APIs+%7C+System+Design;Always+Learning+%F0%9F%9A%80" 
+    alt="Typing SVG" 
+  />
+</p>
 
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-sanam)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vsanam783@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3r6sz2UB)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/v4vishallll)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Web-dev-vishal&color=0e75b6&style=for-the-badge)
-
-</div>
+<!-- ===================== SOCIAL LINKS ===================== -->
+<p align="center">
+  <a href="https://github.com/WebDevloperVishal">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=WebDevloperVishal&style=for-the-badge&color=blue" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-```typescript
+```ts
 const vishal = {
-  location: "Thane, Maharashtra, India 🇮🇳",
-  education: "BCA 3rd Year",
   role: "Backend Developer",
-  
-  techStack: {
-    languages: ["JavaScript", "Node.js"],
-    backend: ["Express.js", "Socket.io", "REST APIs"],
-    databases: ["MongoDB", "Redis", "Prisma ORM", "Mongoose"],
-    ai: ["OpenAI", "LangChain", "LLM Integration"],
-    devOps: ["Docker", "GitHub Actions", "RabbitMQ"],
-  },
-  
-  currentFocus: [
-    "Building scalable microservices architecture",
-    "AI & LLM integration in backend systems",
-    "Real-time applications with WebSockets",
-    "Message queue systems & event-driven design",
-  ],
-  
-  openTo: ["Full-time Opportunities", "Internships", "Freelance Projects"],
+  languages: ["JavaScript", "TypeScript"],
+  backend: ["Node.js", "Express.js"],
+  databases: ["MongoDB", "PostgreSQL", "Redis"],
+  auth: ["JWT", "bcrypt"],
+  tools: ["Git", "Postman", "Docker"],
+  interests: ["System Design", "APIs", "Scalable Systems"],
 };
 ```
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img 
+  align="right" 
+  alt="Coding GIF" 
+  width="320" 
+  src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
+/>
 
-### 🎯 What Drives Me
-
-I'm passionate about creating **robust, scalable backend systems** that power modern applications. My expertise lies in designing RESTful APIs, implementing real-time features, and integrating cutting-edge AI technologies.
-
-**Current Learning:** Kubernetes • GraphQL • Advanced System Design
-
-**Ask me about:** API Architecture • Database Optimization • AI Integration
+- 🔧 Backend-focused developer  
+- 🧠 Strong in REST APIs & Authentication  
+- 🚀 Learning System Design & Scalability  
+- 📚 Clean logic over overengineering  
 
 <br clear="right"/>
 
@@ -64,171 +57,73 @@ I'm passionate about creating **robust, scalable backend systems** that power mo
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-### Core Technologies
-
+### Languages & Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,redis,prisma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express&theme=dark" />
 </p>
 
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
-
-### AI & Cloud
-
+### Databases & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,git,postman,docker&theme=dark" />
 </p>
 
-### Additional Skills
-
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=flat-square)
-
-</div>
+### Other Skills
+<p>
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens" />
+  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io" />
+  <img src="https://img.shields.io/badge/RabbitMQ-orange?style=for-the-badge&logo=rabbitmq" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
+## 🚀 Projects
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 E-Commerce REST API
-Production-ready backend with comprehensive e-commerce features
-
-**Tech:** Node.js • Express • MongoDB • JWT
-
-**Features:**
-- 🔐 JWT Authentication & RBAC
-- 📦 Product & Inventory Management
-- 🛒 Shopping Cart & Orders
-- 💳 Payment Integration
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/web-dev-vishal/E_Commerces_API_Node.js)
-[![Live](https://img.shields.io/badge/Live-Demo-46E3B7?style=for-the-badge&logo=render)](https://e-commerces-api-node-js.onrender.com/)
-
-</td>
-<td width="50%" valign="top">
-
-### 💬 Real-Time Chat Application
-Full-stack app with WebSocket & Redis integration
-
-**Tech:** Socket.io • React • Tailwind • Redis
-
-**Features:**
-- 💬 Real-time Messaging
-- 🔄 Session Management
-- 📱 Responsive Design
-- 👥 User Authentication
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/web-dev-vishal/Major_project)
-[![Live](https://img.shields.io/badge/Live-Demo-46E3B7?style=for-the-badge&logo=render)](https://major-project-6rrg.onrender.com/signin)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 💰 Expense Tracker with Message Queue
-Distributed system using microservices architecture
-
-**Tech:** Node.js • RabbitMQ • Redis • Docker
-
-**Features:**
-- 🐰 Asynchronous task processing with RabbitMQ
-- ⚡ Redis caching for performance
-- 🐳 Containerized deployment with Docker
-- 📊 Event-driven architecture
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/web-dev-vishal/Expense_Tracker)
-
-</td>
-</tr>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><b>URL Shortener</b></td>
+    <td>JWT auth, MongoDB, analytics & rate limiting</td>
+  </tr>
+  <tr>
+    <td><b>Expense Tracker API</b></td>
+    <td>Node.js, PostgreSQL, JWT & bcrypt</td>
+  </tr>
+  <tr>
+    <td><b>Real-Time Task Board</b></td>
+    <td>Socket.IO based collaborative system</td>
+  </tr>
 </table>
 
-</div>
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=WebDevloperVishal&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="165"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=WebDevloperVishal&theme=tokyonight&hide_border=true" 
+    height="165"
+  />
+</p>
 
 ---
 
-## 📊 GitHub Statistics
+## 📫 Contact
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Web-dev-vishal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Web-dev-vishal&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Web-dev-vishal&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=f97316&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Web-dev-vishal&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
-</div>
+- GitHub: https://github.com/WebDevloperVishal  
+- LinkedIn: https://www.linkedin.com/
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Web-dev-vishal&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
-</div>
-
----
-
-## 💼 Let's Connect
-
-<div align="center">
-
-I'm actively seeking **full-time positions** and **internship opportunities** where I can contribute my backend development expertise and passion for building scalable systems.
-
-**Open to:** Backend Development Roles • AI/ML Integration Projects • API Architecture Positions
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 📧 Email
-**[vsanam783@gmail.com](mailto:vsanam783@gmail.com)**
-
-</td>
-<td align="center" width="33%">
-
-### 💼 LinkedIn
-**[Connect with me](https://www.linkedin.com/in/vishal-sanam)**
-
-</td>
-<td align="center" width="33%">
-
-### 🐙 GitHub
-**[@Web-dev-vishal](https://github.com/Web-dev-vishal)**
-
-</td>
-</tr>
-</table>
-
-<br>
-
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3r6sz2UB)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/v4vishallll)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Web-dev-vishal)
-
-<br>
-
-**💡 If you find my work valuable, consider giving it a ⭐ and following me for more!**
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-  
-  <sub>Made with ❤️ by Vishal Sanam</sub>
-</div>
+<!-- ===================== FOOTER ===================== -->
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" 
+  width="100%" 
+/>
