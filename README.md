@@ -53,7 +53,7 @@ const vishal = {
     databases: ["MongoDB", "Redis", "Mongoose"],
     ai: ["OpenAI", "Groq", "LangChain", "LLM Integration"],
     devOps: ["Docker", "GitHub Actions", "RabbitMQ"],
-    tools: ["Requisite", "Thunder Client", "Postman"],
+    tools: ["Requestly", "Thunder Client", "Postman"],
   },
   
   currentFocus: [
@@ -160,8 +160,8 @@ I'm passionate about creating **robust, scalable backend systems** that power mo
   <br>VS Code
 </td>
 <td align="center" width="96">
-  <img src="https://raw.githubusercontent.com/Kong/insomnia/develop/packages/insomnia/src/ui/images/insomnia-logo.svg" width="48" height="48" alt="Requisite" />
-  <br>Requisite
+  <img src="https://www.requestly.io/favicon.ico" width="48" height="48" alt="Requestly" />
+  <br>Requestly
 </td>
 </tr>
 </table>
@@ -177,7 +177,7 @@ I'm passionate about creating **robust, scalable backend systems** that power mo
   <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
   <img src="https://img.shields.io/badge/Groq-FF6600?style=for-the-badge&logo=ai&logoColor=white" alt="Groq"/>
   <img src="https://img.shields.io/badge/Thunder_Client-6B4FBB?style=for-the-badge&logo=thunderbird&logoColor=white" alt="Thunder Client"/>
-  <img src="https://img.shields.io/badge/Requisite-5C2D91?style=for-the-badge&logo=insomnia&logoColor=white" alt="Requisite"/>
+  <img src="https://img.shields.io/badge/Requestly-FF6C37?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiA3TDEyIDEyTDIyIDdMMTIgMloiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik0yIDEyTDEyIDE3TDIyIDEyIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiLz4KPC9zdmc+&logoColor=white" alt="Requestly"/>
 </p>
 
 </div>
@@ -334,11 +334,23 @@ Redis • Docker • Event-Driven
 
 <br>
 
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" alt="Activity Icon"> GitHub Activity
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Web-dev-vishal&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=f97316&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" width="90%"/>
+</div>
 
+<br>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Web-dev-vishal&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" width="100%" alt="Contribution Activity Graph"/>
+</div>
 
+<br>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider">
+
+<br>
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" alt="Wave Icon"> Let's Connect & Collaborate!
 
@@ -434,18 +446,6 @@ Backend & API Development
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 </p>
-
-<br>
-
----
-
-<br>
-
-### 💭 Quote of the Day
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
-</div>
 
 <br>
 
