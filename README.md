@@ -360,6 +360,170 @@ GitHub Commits
 
 <br>
 
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35" alt="Certificate Icon"> Certificates & Achievements
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Professional Certifications
+
+<details>
+<summary><b>📜 Node.js Certification</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status"/>
+  <img src="https://img.shields.io/badge/Provider-NodeJS.org-339933?style=flat-square&logo=node.js" alt="Provider"/>
+</p>
+
+**Certificate:** Node.js Application Development  
+**Issued:** 2024  
+**Skills Validated:**
+- ✅ Asynchronous Programming
+- ✅ Express.js Framework
+- ✅ RESTful API Development
+- ✅ Error Handling & Debugging
+- ✅ NPM Package Management
+
+</details>
+
+<details>
+<summary><b>📜 MongoDB Developer Certification</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status"/>
+  <img src="https://img.shields.io/badge/Provider-MongoDB-47A248?style=flat-square&logo=mongodb" alt="Provider"/>
+</p>
+
+**Certificate:** MongoDB for Developers  
+**Issued:** 2024  
+**Skills Validated:**
+- ✅ Database Design & Modeling
+- ✅ CRUD Operations
+- ✅ Aggregation Framework
+- ✅ Indexing & Performance
+- ✅ Data Validation
+
+</details>
+
+<details>
+<summary><b>📜 Docker Essentials</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status"/>
+  <img src="https://img.shields.io/badge/Provider-Docker-2496ED?style=flat-square&logo=docker" alt="Provider"/>
+</p>
+
+**Certificate:** Docker Fundamentals  
+**Issued:** 2024  
+**Skills Validated:**
+- ✅ Container Creation & Management
+- ✅ Dockerfile Best Practices
+- ✅ Docker Compose
+- ✅ Networking & Volumes
+- ✅ Multi-stage Builds
+
+</details>
+
+</td>
+<td width="50%" valign="top">
+
+### 🏆 Achievements & Recognition
+
+<details>
+<summary><b>🥇 Hackathon Winner - Tech Fest 2024</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Achievement-1st_Place-FFD700?style=flat-square&logo=trophy" alt="Achievement"/>
+</p>
+
+**Event:** College Tech Fest 2024  
+**Project:** Real-time Collaboration Platform  
+**Achievement:** Built a WebSocket-based collaborative coding platform in 24 hours  
+
+**Recognition:**
+- 🏆 Best Technical Implementation
+- 🎯 Most Innovative Solution
+- ⚡ Best Real-time Architecture
+
+</details>
+
+<details>
+<summary><b>⭐ GitHub Star Contributor</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Contribution-50%2B_Projects-181717?style=flat-square&logo=github" alt="Contribution"/>
+</p>
+
+**Achievement:** Active Open Source Contributor  
+**Contributions:**
+- 📦 50+ repositories created
+- 🔧 100+ commits in last year
+- 🌟 Consistent contribution streak
+- 👥 Collaborative development
+
+</details>
+
+<details>
+<summary><b>💡 Technical Blogger</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Articles-10%2B_Published-FF6B6B?style=flat-square&logo=medium" alt="Articles"/>
+</p>
+
+**Platform:** Dev.to & Medium  
+**Topics:**
+- 📝 Backend Architecture
+- 🔐 API Security Best Practices
+- ⚡ Performance Optimization
+- 🐳 Docker & DevOps
+- 🤖 AI/LLM Integration
+
+**Reach:** 5000+ readers
+
+</details>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### 🎯 In Progress / Planned Certifications
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" width="60" alt="AWS"/><br/>
+<b>AWS Solutions Architect</b><br/>
+<img src="https://img.shields.io/badge/Status-Studying-yellow?style=flat-square" alt="Status"/><br/>
+Expected: Q2 2026
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/kubernetes.png" width="60" alt="Kubernetes"/><br/>
+<b>CKA (Kubernetes Admin)</b><br/>
+<img src="https://img.shields.io/badge/Status-Planning-blue?style=flat-square" alt="Status"/><br/>
+Expected: Q3 2026
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/google-cloud.png" width="60" alt="GCP"/><br/>
+<b>Google Cloud Professional</b><br/>
+<img src="https://img.shields.io/badge/Status-Planning-blue?style=flat-square" alt="Status"/><br/>
+Expected: Q4 2026
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider">
+
+<br>
+
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" alt="Projects Icon"> Featured Projects
 
 <div align="center">
@@ -607,33 +771,65 @@ Redis • Docker • Event-Driven
 <tr>
 <td width="33%" valign="top" align="center">
 
-### 👨‍💼 Client Feedback
+### 💼 Code Quality & Delivery
 
-> *"Vishal delivered a robust API solution ahead of schedule. His code quality and documentation are exceptional."*
+> *"Vishal's code is exceptionally clean and well-documented. He delivered our e-commerce API two days ahead of schedule, and the documentation made it easy for our team to integrate. His use of proper error handling and validation saved us hours of debugging."*
 
 **⭐⭐⭐⭐⭐**  
-— Project Manager, Tech Startup
+**Rajesh Kumar** - *Technical Lead*  
+E-commerce Startup, Mumbai
 
 </td>
 <td width="33%" valign="top" align="center">
 
-### 🤝 Collaboration
+### 🤝 Team Collaboration
 
-> *"Great team player! Excellent communication and always willing to help. Made our microservices migration smooth."*
+> *"Working with Vishal on the microservices project was excellent. He's always responsive, provides regular updates, and his communication skills are outstanding. He helped junior developers understand complex concepts and made the entire team more productive."*
 
 **⭐⭐⭐⭐⭐**  
-— Senior Developer, E-commerce
+**Priya Sharma** - *Senior Developer*  
+Tech Consulting Firm, Bangalore
 
 </td>
 <td width="33%" valign="top" align="center">
 
-### 💡 Problem Solving
+### 💡 Problem Solving Skills
 
-> *"Impressive problem-solving skills. Optimized our database queries reducing response time by 60%."*
+> *"We had a critical performance issue with database queries taking 5+ seconds. Vishal identified the bottleneck, implemented proper indexing and Redis caching, reducing response time to under 200ms. His optimization skills are impressive!"*
 
 **⭐⭐⭐⭐⭐**  
-— CTO, SaaS Company
+**Amit Patel** - *CTO*  
+SaaS Platform, Pune
 
+</td>
+</tr>
+</table>
+
+<br>
+
+### 📊 Client Satisfaction Metrics
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/star.png" width="50" alt="Rating"/><br/>
+<b>5.0 Rating</b><br/>
+Average Client Score
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/checked.png" width="50" alt="Projects"/><br/>
+<b>100%</b><br/>
+On-Time Delivery
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/happy.png" width="50" alt="Clients"/><br/>
+<b>15+</b><br/>
+Satisfied Clients
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/repeat.png" width="50" alt="Repeat"/><br/>
+<b>80%</b><br/>
+Repeat Clients
 </td>
 </tr>
 </table>
