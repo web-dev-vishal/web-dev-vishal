@@ -520,50 +520,6 @@ Redis • Docker • Event-Driven
 
 <br>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35" alt="Testimonial Icon"> What People Say
-
-<div align="center">
-
-<table>
-<tr>
-<td width="33%" valign="top" align="center">
-
-### 💼 Code Quality & Delivery
-
-> *"Vishal's code is exceptionally clean and well-documented. He delivered our e-commerce API two days ahead of schedule, and the documentation made it easy for our team to integrate. His use of proper error handling and validation saved us hours of debugging."*
-
-**⭐⭐⭐⭐⭐**  
-**Rajesh Kumar** - *Technical Lead*  
-E-commerce Startup, Mumbai
-
-</td>
-<td width="33%" valign="top" align="center">
-
-### 🤝 Team Collaboration
-
-> *"Working with Vishal on the microservices project was excellent. He's always responsive, provides regular updates, and his communication skills are outstanding. He helped junior developers understand complex concepts and made the entire team more productive."*
-
-**⭐⭐⭐⭐⭐**  
-**Priya Sharma** - *Senior Developer*  
-Tech Consulting Firm, Bangalore
-
-</td>
-<td width="33%" valign="top" align="center">
-
-### 💡 Problem Solving Skills
-
-> *"We had a critical performance issue with database queries taking 5+ seconds. Vishal identified the bottleneck, implemented proper indexing and Redis caching, reducing response time to under 200ms. His optimization skills are impressive!"*
-
-**⭐⭐⭐⭐⭐**  
-**Amit Patel** - *CTO*  
-SaaS Platform, Pune
-
-</td>
-</tr>
-</table>
-
-<br>
-
 ### 📊 Client Satisfaction Metrics
 
 <table>
