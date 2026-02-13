@@ -405,7 +405,7 @@ JWT • Bcrypt • REST API
 
 <div align="center">
 
-### 💬 Real-Time Chat App
+### 💬 Full Stack Social Media App
 
 <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge&logo=vercel&logoColor=white" alt="Status"/>
 <img src="https://img.shields.io/badge/Type-Full_Stack-orange?style=for-the-badge&logo=react&logoColor=white" alt="Type"/>
