@@ -520,41 +520,6 @@ Redis • Docker • Event-Driven
 
 <br>
 
-### 📊 Client Satisfaction Metrics
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/star.png" width="50" alt="Rating"/><br/>
-<b>5.0 Rating</b><br/>
-Average Client Score
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/checked.png" width="50" alt="Projects"/><br/>
-<b>100%</b><br/>
-On-Time Delivery
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/happy.png" width="50" alt="Clients"/><br/>
-<b>15+</b><br/>
-Satisfied Clients
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/repeat.png" width="50" alt="Repeat"/><br/>
-<b>80%</b><br/>
-Repeat Clients
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider">
-
-<br>
-
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35" alt="Coding Icon"> Currently Working On
 
 <div align="center">
@@ -736,7 +701,7 @@ Clean, documented, tested
 Regular updates & transparency
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/deadline.png" width="60" alt="On Time"/><br/>
+<img src="https://img.shields.io/badge/On--Time_Delivery-4CAF50?style=for-the-badge&logoColor=white" alt="Deadline"/><br/>
 <b>On-Time Delivery</b><br/>
 Respect your timeline
 </td>
