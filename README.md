@@ -50,9 +50,10 @@ const vishal = {
   techStack: {
     languages: ["JavaScript", "Node.js"],
     backend: ["Express.js", "Socket.io", "REST APIs"],
-    databases: ["MongoDB", "Redis", "Prisma ORM", "Mongoose"],
-    ai: ["OpenAI", "LangChain", "LLM Integration"],
+    databases: ["MongoDB", "Redis", "Mongoose"],
+    ai: ["OpenAI", "Groq", "LangChain", "LLM Integration"],
     devOps: ["Docker", "GitHub Actions", "RabbitMQ"],
+    tools: ["Requisite", "Thunder Client", "Postman"],
   },
   
   currentFocus: [
@@ -133,8 +134,8 @@ I'm passionate about creating **robust, scalable backend systems** that power mo
   <br>Redis
 </td>
 <td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" />
-  <br>Prisma
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" width="48" height="48" alt="Groq" />
+  <br>Groq
 </td>
 </tr>
 <tr>
@@ -158,6 +159,10 @@ I'm passionate about creating **robust, scalable backend systems** that power mo
   <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
   <br>VS Code
 </td>
+<td align="center" width="96">
+  <img src="https://raw.githubusercontent.com/Kong/insomnia/develop/packages/insomnia/src/ui/images/insomnia-logo.svg" width="48" height="48" alt="Requisite" />
+  <br>Requisite
+</td>
 </tr>
 </table>
 
@@ -170,6 +175,9 @@ I'm passionate about creating **robust, scalable backend systems** that power mo
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose"/>
   <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/Groq-FF6600?style=for-the-badge&logo=ai&logoColor=white" alt="Groq"/>
+  <img src="https://img.shields.io/badge/Thunder_Client-6B4FBB?style=for-the-badge&logo=thunderbird&logoColor=white" alt="Thunder Client"/>
+  <img src="https://img.shields.io/badge/Requisite-5C2D91?style=for-the-badge&logo=insomnia&logoColor=white" alt="Requisite"/>
 </p>
 
 </div>
@@ -326,85 +334,11 @@ Redis • Docker • Event-Driven
 
 <br>
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" alt="Analytics Icon"> GitHub Analytics
 
-<div align="center">
 
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=Web-dev-vishal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff&custom_title=GitHub%20Statistics" alt="GitHub Stats"/>
-</td>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Web-dev-vishal&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6&custom_title=Most%20Used%20Languages" alt="Top Languages"/>
-</td>
-</tr>
-</table>
 
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Web-dev-vishal&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=f97316&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
-</div>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Web-dev-vishal&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" width="100%" alt="Contribution Activity Graph"/>
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider">
-
-<br>
-
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35" alt="Trophy Icon"> GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Web-dev-vishal&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7&margin-w=15&margin-h=15" width="100%" alt="Trophies"/>
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider">
-
-<br>
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35" alt="Profile Icon"> Profile Summary
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Web-dev-vishal&theme=tokyonight" width="100%" alt="Profile Summary"/>
-</div>
-
-<br>
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Web-dev-vishal&theme=tokyonight" alt="Repos per Language"/>
-</td>
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Web-dev-vishal&theme=tokyonight" alt="Most Commit Language"/>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Web-dev-vishal&theme=tokyonight" alt="Stats"/>
-</td>
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Web-dev-vishal&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
-</td>
-</tr>
-</table>
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider">
-
-<br>
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" alt="Wave Icon"> Let's Connect & Collaborate!
 
