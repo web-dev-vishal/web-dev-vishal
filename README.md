@@ -133,27 +133,27 @@ I'm passionate about creating **robust, scalable backend systems** that power mo
 <table>
 <tr>
 <td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/96/000000/code.png" width="50"/><br/>
+<img src="https://img.icons8.com/fluency/96/000000/code.png" width="50" alt="Coding Experience Icon"/><br/>
 <b>3+ Years</b><br/>
 Coding Experience
 </td>
 <td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/96/000000/api.png" width="50"/><br/>
+<img src="https://img.icons8.com/fluency/96/000000/api.png" width="50" alt="API Icon"/><br/>
 <b>10+ APIs</b><br/>
 Built & Deployed
 </td>
 <td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/96/000000/github.png" width="50"/><br/>
+<img src="https://img.icons8.com/fluency/96/000000/github.png" width="50" alt="GitHub Projects Icon"/><br/>
 <b>50+ Projects</b><br/>
 On GitHub
 </td>
 <td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/96/000000/server.png" width="50"/><br/>
+<img src="https://img.icons8.com/fluency/96/000000/server.png" width="50" alt="Server Uptime Icon"/><br/>
 <b>99.9% Uptime</b><br/>
 Production Apps
 </td>
 <td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="50"/><br/>
+<img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="50" alt="Fast Delivery Icon"/><br/>
 <b>Fast Delivery</b><br/>
 Agile Approach
 </td>
@@ -600,12 +600,8 @@ Node.js • Express • Redis
 </div>
 
 </td>
+
 </tr>
-</table>
-
-<br>
-
-<table border="0">
 <tr>
 <td width="100%" valign="top">
 
