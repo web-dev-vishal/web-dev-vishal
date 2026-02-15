@@ -131,16 +131,15 @@ const vishal = {
 
 <div align="center">
 
-### 🛒 **E-Commerce REST API**
+### 📊 **Global-Fi Ultra - Real-Time Financial Data Aggregator**
 <img src="https://img.shields.io/badge/Status-Live-success?style=flat-square" /> <img src="https://img.shields.io/badge/Version-1.0.0-blue?style=flat-square" />
 
-A production-ready e-commerce backend with comprehensive features including JWT authentication, role-based access control, product management, cart operations, and secure payment processing.
+A production-ready financial data aggregator that pulls from 6+ APIs and streams market data via WebSockets. Built for traders and developers, featuring circuit breakers, retry logic, and financial precision with Big.js. Aggregates stocks, crypto, forex, and news into one clean API with smart caching.
 
-**🛠️ Tech Stack:** Node.js • Express • MongoDB • JWT • Bcrypt  
-**✨ Features:** User Auth • Product CRUD • Order Management • Payment Integration
+**🛠️ Tech Stack:** Node.js 18+ • Express • Socket.io • MongoDB • Redis • Docker  
+**✨ Features:** Real-time WebSocket Streaming • 6 API Integrations • Circuit Breakers • Smart Caching • Financial Math Precision
 
-[![Repository](https://img.shields.io/badge/Repo-View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/web-dev-vishal/E_Commerces_API_Node.js) 
-[![Live Demo](https://img.shields.io/badge/Demo-Try%20It%20Live-46E3B7?style=for-the-badge&logo=render)](https://e-commerces-api-node-js.onrender.com/)
+[![Repository](https://img.shields.io/badge/Repo-View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/web-dev-vishal/Global_Fi_Ultra)
 
 ---
 
