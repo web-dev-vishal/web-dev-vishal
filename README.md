@@ -8,28 +8,7 @@
 
 </div>
 
-<br>
-
 <div align="center">
-
-### 🎯 Quick Actions
-
-<a href="https://drive.google.com/file/d/YOUR_RESUME_ID/view">
-  <img src="https://img.shields.io/badge/📄_Download_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download Resume" />
-</a>
-<img src="https://img.shields.io/badge/✅_Available_For_Hire-00C853?style=for-the-badge&logoColor=white" alt="Available for Hire" />
-<img src="https://img.shields.io/badge/⚡_Response_Time:_24hrs-FF6B6B?style=for-the-badge&logoColor=white" alt="Response Time" />
-<a href="https://calendly.com/YOUR_CALENDLY_LINK">
-  <img src="https://img.shields.io/badge/📅_Schedule_Meeting-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Schedule Meeting" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 🔗 Connect With Me
   <a href="https://www.linkedin.com/in/vishal-sanam">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
   </a>
@@ -47,13 +26,9 @@
 <br>
 
 <div align="center">
-
-### 📊 Profile Stats
-
-<img src="https://komarev.com/ghpvc/?username=Web-dev-vishal&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/Web-dev-vishal?style=for-the-badge&color=0e75b6&labelColor=1a1a1a&logo=github&label=FOLLOWERS" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/Web-dev-vishal?style=for-the-badge&color=0e75b6&labelColor=1a1a1a&logo=github&label=STARS" alt="Stars"/>
-
+  <img src="https://komarev.com/ghpvc/?username=Web-dev-vishal&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Web-dev-vishal?style=for-the-badge&color=0e75b6&labelColor=1a1a1a&logo=github&label=FOLLOWERS" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Web-dev-vishal?style=for-the-badge&color=0e75b6&labelColor=1a1a1a&logo=github&label=STARS" alt="Stars"/>
 </div>
 
 <br>
@@ -75,10 +50,9 @@ const vishal = {
   techStack: {
     languages: ["JavaScript", "Node.js"],
     backend: ["Express.js", "Socket.io", "REST APIs"],
-    databases: ["MongoDB", "Redis", "Mongoose"],
-    ai: ["OpenAI", "Groq", "LangChain", "LLM Integration"],
+    databases: ["MongoDB", "Redis", "Prisma ORM", "Mongoose"],
+    ai: ["OpenAI", "LangChain", "LLM Integration"],
     devOps: ["Docker", "GitHub Actions", "RabbitMQ"],
-    tools: ["Requestly", "Thunder Client", "Postman"],
   },
   
   currentFocus: [
@@ -124,44 +98,6 @@ I'm passionate about creating **robust, scalable backend systems** that power mo
 
 **💬 Ask me about:** API Architecture • Database Optimization • AI Integration • WebSocket Development
 
-<br>
-
-### 🌟 Key Highlights
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/96/000000/code.png" width="50" alt="Coding Experience Icon"/><br/>
-<b>3+ Years</b><br/>
-Coding Experience
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/96/000000/api.png" width="50" alt="API Icon"/><br/>
-<b>10+ APIs</b><br/>
-Built & Deployed
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/96/000000/github.png" width="50" alt="GitHub Projects Icon"/><br/>
-<b>50+ Projects</b><br/>
-On GitHub
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/96/000000/server.png" width="50" alt="Server Uptime Icon"/><br/>
-<b>99.9% Uptime</b><br/>
-Production Apps
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="50" alt="Fast Delivery Icon"/><br/>
-<b>Fast Delivery</b><br/>
-Agile Approach
-</td>
-</tr>
-</table>
-
-</div>
-
 <br clear="right"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider">
@@ -171,12 +107,6 @@ Agile Approach
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" alt="Tech Stack Icon"> Tech Stack & Tools
 
 <div align="center">
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focused_On-Backend_Development-00D9FF?style=for-the-badge" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Specialization-API_Architecture-00D9FF?style=for-the-badge" alt="Specialization"/>
-  <img src="https://img.shields.io/badge/Expertise-Real--time_Systems-00D9FF?style=for-the-badge" alt="Expertise"/>
-</p>
 
 ### 💻 Core Technologies
 
@@ -203,8 +133,8 @@ Agile Approach
   <br>Redis
 </td>
 <td align="center" width="96">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" width="48" height="48" alt="Groq" />
-  <br>Groq
+  <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" />
+  <br>Prisma
 </td>
 </tr>
 <tr>
@@ -228,10 +158,6 @@ Agile Approach
   <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
   <br>VS Code
 </td>
-<td align="center" width="96">
-  <img src="https://www.requestly.io/favicon.ico" width="48" height="48" alt="Requestly" />
-  <br>Requestly
-</td>
 </tr>
 </table>
 
@@ -244,113 +170,7 @@ Agile Approach
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose"/>
   <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/Groq-FF6600?style=for-the-badge&logo=ai&logoColor=white" alt="Groq"/>
-  <img src="https://img.shields.io/badge/Thunder_Client-6B4FBB?style=for-the-badge&logo=thunderbird&logoColor=white" alt="Thunder Client"/>
-  <img src="https://img.shields.io/badge/Requestly-FF6C37?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiA3TDEyIDEyTDIyIDdMMTIgMloiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik0yIDEyTDEyIDE3TDIyIDEyIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiLz4KPC9zdmc+&logoColor=white" alt="Requestly"/>
 </p>
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider">
-
-<br>
-
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35" alt="Skills Icon"> Skills & Expertise
-
-<div align="center">
-
-### 💪 Proficiency Levels
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Backend Development**
-<br>
-
-![Node.js](https://img.shields.io/badge/Node.js-Expert-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-Expert-000000?style=flat-square&logo=express&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Databases**
-<br>
-
-![MongoDB](https://img.shields.io/badge/MongoDB-Advanced-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-Advanced-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-Advanced-880000?style=flat-square&logo=mongoose&logoColor=white)
-
-**DevOps & Tools**
-<br>
-
-![Docker](https://img.shields.io/badge/Docker-Intermediate-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Advanced-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Advanced-181717?style=flat-square&logo=github&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-**API Development**
-<br>
-
-![REST API](https://img.shields.io/badge/REST%20API-Expert-009688?style=flat-square&logo=fastapi&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-Advanced-010101?style=flat-square&logo=socket.io&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-Advanced-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-**AI & Integration**
-<br>
-
-![OpenAI](https://img.shields.io/badge/OpenAI-Advanced-412991?style=flat-square&logo=openai&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-Intermediate-FF6600?style=flat-square&logo=ai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-Intermediate-121212?style=flat-square&logo=chainlink&logoColor=white)
-
-**Message Queues**
-<br>
-
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-Intermediate-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Event%20Driven](https://img.shields.io/badge/Event%20Driven-Advanced-4CAF50?style=flat-square&logo=apache-kafka&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-<br>
-
-### 📈 Experience Metrics
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/api-settings.png" width="60" alt="APIs"/>
-<br><br>
-<b>50+</b>
-<br>
-APIs Built
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/server.png" width="60" alt="Projects"/>
-<br><br>
-<b>20+</b>
-<br>
-Projects Completed
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/code.png" width="60" alt="Code"/>
-<br><br>
-<b>100K+</b>
-<br>
-Lines of Code
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/git.png" width="60" alt="Commits"/>
-<br><br>
-<b>1000+</b>
-<br>
-GitHub Commits
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -405,7 +225,7 @@ JWT • Bcrypt • REST API
 
 <div align="center">
 
-### 💬 Full Stack Social Media App
+### 💬 Real-Time Chat App
 
 <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge&logo=vercel&logoColor=white" alt="Status"/>
 <img src="https://img.shields.io/badge/Type-Full_Stack-orange?style=for-the-badge&logo=react&logoColor=white" alt="Type"/>
@@ -436,10 +256,14 @@ Node.js • Express • Redis
 </div>
 
 </td>
-
 </tr>
+</table>
+
+<br>
+
+<table border="0">
 <tr>
-<td width="100%" colspan="2" valign="top">
+<td width="100%" valign="top">
 
 <div align="center">
 
@@ -502,10 +326,25 @@ Redis • Docker • Event-Driven
 
 <br>
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" alt="Activity Icon"> GitHub Activity
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" alt="Analytics Icon"> GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Web-dev-vishal&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=f97316&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" width="90%"/>
+
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=Web-dev-vishal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff&custom_title=GitHub%20Statistics" alt="GitHub Stats"/>
+</td>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Web-dev-vishal&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6&custom_title=Most%20Used%20Languages" alt="Top Languages"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Web-dev-vishal&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=f97316&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
 </div>
 
 <br>
@@ -520,60 +359,10 @@ Redis • Docker • Event-Driven
 
 <br>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35" alt="Coding Icon"> Currently Working On
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35" alt="Trophy Icon"> GitHub Trophies
 
 <div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🚀 Active Projects
-
-**🔨 AI-Powered Chatbot Platform**
-```
-Tech: Node.js, OpenAI, LangChain, Redis
-Status: 🟢 In Development (80% Complete)
-```
-Building an intelligent chatbot platform with context-aware responses and multi-language support.
-
-<br>
-
-**⚡ Real-Time Analytics Dashboard**
-```
-Tech: WebSocket, React, Node.js, MongoDB
-Status: 🟡 Planning Phase
-```
-Creating a real-time analytics dashboard for tracking API performance metrics.
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 Learning & Exploring
-
-**🎯 Current Focus Areas**
-- Advanced Kubernetes orchestration
-- GraphQL API design patterns  
-- Microservices architecture best practices
-- AI/ML model integration strategies
-
-<br>
-
-**📖 Reading List**
-- "Designing Data-Intensive Applications"
-- "System Design Interview" by Alex Xu
-- Latest research on LLM optimization
-
-<br>
-
-**🎓 Upcoming Certifications**
-- AWS Certified Solutions Architect
-- Kubernetes Administrator (CKA)
-
-</td>
-</tr>
-</table>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Web-dev-vishal&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7&margin-w=15&margin-h=15" width="100%" alt="Trophies"/>
 </div>
 
 <br>
@@ -582,89 +371,33 @@ Creating a real-time analytics dashboard for tracking API performance metrics.
 
 <br>
 
-## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="35" alt="Services Icon"> What I Can Do For You
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35" alt="Profile Icon"> Profile Summary
 
 <div align="center">
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🔧 Backend Development
-<p align="center">
-  <img src="https://img.icons8.com/fluency/96/000000/backend-development.png" width="80" alt="Backend"/>
-</p>
-
-- RESTful API Design & Development
-- Microservices Architecture
-- Database Design & Optimization
-- Authentication & Authorization
-- Third-party API Integration
-- Performance Optimization
-
-</td>
-<td width="33%" valign="top">
-
-### ⚡ Real-Time Solutions
-<p align="center">
-  <img src="https://img.icons8.com/fluency/96/000000/lightning-bolt.png" width="80" alt="Real-time"/>
-</p>
-
-- WebSocket Implementation
-- Real-time Chat Applications
-- Live Data Streaming
-- Event-Driven Architecture
-- Push Notifications
-- Real-time Analytics
-
-</td>
-<td width="33%" valign="top">
-
-### 🤖 AI Integration
-<p align="center">
-  <img src="https://img.icons8.com/fluency/96/000000/bot.png" width="80" alt="AI"/>
-</p>
-
-- ChatGPT/OpenAI Integration
-- LangChain Implementation
-- AI-Powered Chatbots
-- Custom LLM Solutions
-- RAG Systems
-- AI API Development
-
-</td>
-</tr>
-</table>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Web-dev-vishal&theme=tokyonight" width="100%" alt="Profile Summary"/>
+</div>
 
 <br>
 
+<div align="center">
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🏗️ Additional Services
-- **System Architecture**: Design scalable and maintainable systems
-- **Code Review**: Comprehensive code quality assessment
-- **Technical Consultation**: Expert guidance on tech stack and architecture
-- **API Documentation**: Clear, comprehensive API documentation
-- **DevOps Setup**: Docker, CI/CD pipeline configuration
-- **Performance Audit**: Identify and fix performance bottlenecks
-
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Web-dev-vishal&theme=tokyonight" alt="Repos per Language"/>
 </td>
-<td width="50%" valign="top">
-
-### 💼 Work Process
-1. **Discovery** - Understanding your requirements
-2. **Planning** - Technical design and timeline
-3. **Development** - Agile, iterative development
-4. **Testing** - Comprehensive testing coverage
-5. **Deployment** - Smooth production deployment
-6. **Support** - Post-launch maintenance and updates
-
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Web-dev-vishal&theme=tokyonight" alt="Most Commit Language"/>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Web-dev-vishal&theme=tokyonight" alt="Stats"/>
+</td>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Web-dev-vishal&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
 </td>
 </tr>
 </table>
-
 </div>
 
 <br>
@@ -677,59 +410,30 @@ Creating a real-time analytics dashboard for tracking API performance metrics.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58a6ff&center=true&vCenter=true&width=700&lines=💼+Open+for+Full-time+Opportunities;🎓+Available+for+Internships;💰+Ready+for+Freelance+Projects;🚀+Let's+Build+Something+Amazing!" alt="Opportunities"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58a6ff&center=true&vCenter=true&width=600&lines=Open+for+Full-time+Opportunities;Available+for+Internships;Ready+for+Freelance+Projects;Let's+Build+Something+Amazing!" alt="Opportunities"/>
 
 <br><br>
-
-### 🎯 Why Work With Me?
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/clock.png" width="60" alt="Quick Response"/><br/>
-<b>Quick Response</b><br/>
-Reply within 24 hours
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/quality.png" width="60" alt="Quality Code"/><br/>
-<b>Quality Code</b><br/>
-Clean, documented, tested
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/communication.png" width="60" alt="Clear Communication"/><br/>
-<b>Clear Communication</b><br/>
-Regular updates & transparency
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/On--Time_Delivery-4CAF50?style=for-the-badge&logoColor=white" alt="Deadline"/><br/>
-<b>On-Time Delivery</b><br/>
-Respect your timeline
-</td>
-</tr>
-</table>
-
-<br>
 
 ### 💼 I'm Actively Seeking
 
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/briefcase.png" width="60" alt="Work Icon"/>
+<img src="https://img.icons8.com/color/96/000000/briefcase.png" width="60" alt="Work"/ alt="Icon">
 <br><br>
 <b>Full-time Positions</b>
 <br>
 Backend Development Roles
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/student-center.png" width="60" alt="Internship Icon"/>
+<img src="https://img.icons8.com/color/96/000000/student-center.png" width="60" alt="Internship"/ alt="Icon">
 <br><br>
 <b>Internship Programs</b>
 <br>
 Summer & Winter Internships
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/rocket.png" width="60" alt="Freelance Icon"/>
+<img src="https://img.icons8.com/color/96/000000/rocket.png" width="60" alt="Freelance"/ alt="Icon">
 <br><br>
 <b>Freelance Projects</b>
 <br>
@@ -745,28 +449,28 @@ Backend & API Development
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/gmail.png" width="65" alt="Email Icon"/>
+<img src="https://img.icons8.com/fluency/96/000000/gmail.png" width="65" alt="Email"/ alt="Icon">
 <br><br>
 <b>Email</b>
 <br>
 <a href="mailto:vsanam783@gmail.com">vsanam783@gmail.com</a>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/linkedin.png" width="65" alt="LinkedIn Icon"/>
+<img src="https://img.icons8.com/color/96/000000/linkedin.png" width="65" alt="LinkedIn"/ alt="Icon">
 <br><br>
 <b>LinkedIn</b>
 <br>
 <a href="https://www.linkedin.com/in/vishal-sanam">Connect with me</a>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/github.png" width="65" alt="GitHub Icon"/>
+<img src="https://img.icons8.com/fluency/96/000000/github.png" width="65" alt="GitHub"/ alt="Icon">
 <br><br>
 <b>GitHub</b>
 <br>
 <a href="https://github.com/Web-dev-vishal">@Web-dev-vishal</a>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/discord-logo.png" width="65" alt="Discord Icon"/>
+<img src="https://img.icons8.com/color/96/000000/discord-logo.png" width="65" alt="Discord"/ alt="Icon">
 <br><br>
 <b>Discord</b>
 <br>
@@ -796,6 +500,18 @@ Backend & API Development
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 </p>
+
+<br>
+
+---
+
+<br>
+
+### 💭 Quote of the Day
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
+</div>
 
 <br>
 
@@ -839,50 +555,6 @@ Backend & API Development
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-</details>
-
-<br>
-
----
-
-<br>
-
-### ❓ Frequently Asked Questions
-
-<details>
-<summary><b>🕒 What's your availability?</b></summary>
-<br>
-I'm currently available for freelance projects and open to full-time opportunities. I can typically start within 1-2 weeks and work across different timezones.
-</details>
-
-<details>
-<summary><b>💰 What are your rates?</b></summary>
-<br>
-Rates vary based on project complexity and requirements. I offer competitive hourly rates for freelance work and am open to discussing fixed-price projects. Contact me for a detailed quote!
-</details>
-
-<details>
-<summary><b>🔧 What's your tech stack preference?</b></summary>
-<br>
-I specialize in Node.js/Express.js for backend development, with MongoDB/Redis for databases. I'm also experienced with Docker, WebSockets, and AI/LLM integration (OpenAI, LangChain, Groq).
-</details>
-
-<details>
-<summary><b>📦 Do you work on existing projects?</b></summary>
-<br>
-Yes! I'm experienced in maintaining, debugging, and enhancing existing codebases. I can quickly understand your system and make improvements.
-</details>
-
-<details>
-<summary><b>🤝 How do you ensure project success?</b></summary>
-<br>
-Clear communication, regular updates, proper documentation, comprehensive testing, and agile methodology. I believe in transparency and collaboration throughout the development process.
-</details>
-
-<details>
-<summary><b>🎯 What size projects do you take?</b></summary>
-<br>
-I work on projects of all sizes - from small API endpoints to complex microservices architectures. Whether it's a startup MVP or enterprise-level system, I'm interested!
 </details>
 
 <br>
