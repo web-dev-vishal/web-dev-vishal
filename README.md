@@ -12,23 +12,6 @@
 
 <div align="center">
 
-### Quick Actions
-
-<a href="https://www.linkedin.com/in/vishal-sanam">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:vsanam783@gmail.com">
-  <img src="https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<img src="https://img.shields.io/badge/Available_For_Hire-00C853?style=for-the-badge&logoColor=white" alt="Available for Hire" />
-<img src="https://img.shields.io/badge/Response_Time:_24hrs-FF6B6B?style=for-the-badge&logoColor=white" alt="Response Time" />
-
-</div>
-
-<br>
-
-<div align="center">
-
 ### Connect With Me
   <a href="https://www.linkedin.com/in/vishal-sanam">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
@@ -42,6 +25,8 @@
   <a href="https://instagram.com/v4vishallll">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
   </a>
+  <img src="https://img.shields.io/badge/Available_For_Hire-00C853?style=for-the-badge&logoColor=white" alt="Available for Hire" />
+  <img src="https://img.shields.io/badge/Response_Time:_24hrs-FF6B6B?style=for-the-badge&logoColor=white" alt="Response Time" />
 </div>
 
 <br>
@@ -352,7 +337,7 @@ JWT | Bcrypt | REST API
 
 <div align="center">
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/web-dev-vishal/E_Commerces_API_Node.js)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Web-dev-vishal/E_Commerces_API_Node.js)
 [![Live](https://img.shields.io/badge/Live-Try_Demo-46E3B7?style=for-the-badge&logo=render)](https://e-commerces-api-node-js.onrender.com/)
 
 </div>
@@ -387,7 +372,7 @@ Node.js | Express | Redis
 
 <div align="center">
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/web-dev-vishal/Major_project)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Web-dev-vishal/Major_project)
 [![Live](https://img.shields.io/badge/Live-Try_Demo-46E3B7?style=for-the-badge&logo=render)](https://major-project-6rrg.onrender.com/signin)
 
 </div>
@@ -442,8 +427,8 @@ Redis | Docker | Event-Driven
 
 <div align="center">
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/web-dev-vishal/Expense_Tracker)
-[![Docs](https://img.shields.io/badge/Documentation-Read_More-blue?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/web-dev-vishal/Expense_Tracker#readme)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Web-dev-vishal/Expense_Tracker)
+[![Docs](https://img.shields.io/badge/Documentation-Read_More-blue?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/Web-dev-vishal/Expense_Tracker#readme)
 
 </div>
 
