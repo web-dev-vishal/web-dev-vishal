@@ -12,16 +12,16 @@
 
 <div align="center">
 
-### 🎯 Quick Actions
+### Quick Actions
 
-<a href="https://drive.google.com/file/d/YOUR_RESUME_ID/view">
-  <img src="https://img.shields.io/badge/📄_Download_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download Resume" />
+<a href="https://www.linkedin.com/in/vishal-sanam">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<img src="https://img.shields.io/badge/✅_Available_For_Hire-00C853?style=for-the-badge&logoColor=white" alt="Available for Hire" />
-<img src="https://img.shields.io/badge/⚡_Response_Time:_24hrs-FF6B6B?style=for-the-badge&logoColor=white" alt="Response Time" />
-<a href="https://calendly.com/YOUR_CALENDLY_LINK">
-  <img src="https://img.shields.io/badge/📅_Schedule_Meeting-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Schedule Meeting" />
+<a href="mailto:vsanam783@gmail.com">
+  <img src="https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
+<img src="https://img.shields.io/badge/Available_For_Hire-00C853?style=for-the-badge&logoColor=white" alt="Available for Hire" />
+<img src="https://img.shields.io/badge/Response_Time:_24hrs-FF6B6B?style=for-the-badge&logoColor=white" alt="Response Time" />
 
 </div>
 
@@ -29,7 +29,7 @@
 
 <div align="center">
 
-### 🔗 Connect With Me
+### Connect With Me
   <a href="https://www.linkedin.com/in/vishal-sanam">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
   </a>
@@ -48,7 +48,7 @@
 
 <div align="center">
 
-### 📊 Profile Stats
+### Profile Stats
 
 <img src="https://komarev.com/ghpvc/?username=Web-dev-vishal&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/Web-dev-vishal?style=for-the-badge&color=0e75b6&labelColor=1a1a1a&logo=github&label=FOLLOWERS" alt="Followers"/>
@@ -68,12 +68,12 @@
 
 ```typescript
 const vishal = {
-  location: "Thane, Maharashtra, India 🇮🇳",
-  education: "BCA 3rd Year 🎓",
-  role: "Backend Developer 💻",
+  location: "Thane, Maharashtra, India",
+  education: "BCA 3rd Year",
+  role: "Backend Developer",
   
   techStack: {
-    languages: ["JavaScript", "Node.js"],
+    languages: ["JavaScript", "TypeScript", "Node.js"],
     backend: ["Express.js", "Socket.io", "REST APIs"],
     databases: ["MongoDB", "Redis", "Mongoose"],
     ai: ["OpenAI", "Groq", "LangChain", "LLM Integration"],
@@ -82,37 +82,31 @@ const vishal = {
   },
   
   currentFocus: [
-    "🏗️ Building scalable microservices architecture",
-    "🤖 AI & LLM integration in backend systems",
-    "⚡ Real-time applications with WebSockets",
-    "📮 Message queue systems & event-driven design",
+    "Building scalable microservices architecture",
+    "AI & LLM integration in backend systems",
+    "Real-time applications with WebSockets",
+    "Message queue systems & event-driven design",
   ],
   
   openTo: ["Full-time", "Internships", "Freelance"],
-  
-  dailyRoutine: {
-    code: "☕ + 💻 = 🚀",
-    learn: "📚 Always expanding knowledge",
-    build: "🔨 Creating scalable solutions",
-  }
 };
 ```
 
 <br>
 
-### 🎯 What Drives Me
+### What Drives Me
 
 <table>
 <tr>
 <td width="50%">
 
-#### 💡 Philosophy
+#### Philosophy
 I'm passionate about creating **robust, scalable backend systems** that power modern applications. My expertise lies in designing RESTful APIs, implementing real-time features, and integrating cutting-edge AI technologies.
 
 </td>
 <td width="50%">
 
-#### 🌱 Currently Learning
+#### Currently Learning
 - **Kubernetes** - Container orchestration
 - **GraphQL** - Modern API design
 - **System Design** - Large-scale architecture
@@ -122,11 +116,11 @@ I'm passionate about creating **robust, scalable backend systems** that power mo
 </tr>
 </table>
 
-**💬 Ask me about:** API Architecture • Database Optimization • AI Integration • WebSocket Development
+**Ask me about:** API Architecture | Database Optimization | AI Integration | WebSocket Development
 
 <br>
 
-### 🌟 Key Highlights
+### Key Highlights
 
 <div align="center">
 
@@ -144,13 +138,13 @@ Built & Deployed
 </td>
 <td align="center" width="20%">
 <img src="https://img.icons8.com/fluency/96/000000/github.png" width="50" alt="GitHub Projects Icon"/><br/>
-<b>50+ Projects</b><br/>
+<b>15+ Projects</b><br/>
 On GitHub
 </td>
 <td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/96/000000/server.png" width="50" alt="Server Uptime Icon"/><br/>
-<b>99.9% Uptime</b><br/>
-Production Apps
+<img src="https://img.icons8.com/fluency/96/000000/server.png" width="50" alt="Server Icon"/><br/>
+<b>Microservices</b><br/>
+Architecture
 </td>
 <td align="center" width="20%">
 <img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="50" alt="Fast Delivery Icon"/><br/>
@@ -178,7 +172,7 @@ Agile Approach
   <img src="https://img.shields.io/badge/Expertise-Real--time_Systems-00D9FF?style=for-the-badge" alt="Expertise"/>
 </p>
 
-### 💻 Core Technologies
+### Core Technologies
 
 <table>
 <tr>
@@ -203,15 +197,11 @@ Agile Approach
   <br>Redis
 </td>
 <td align="center" width="96">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" width="48" height="48" alt="Groq" />
-  <br>Groq
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
   <br>Docker
 </td>
+</tr>
+<tr>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
   <br>Git
@@ -229,13 +219,17 @@ Agile Approach
   <br>VS Code
 </td>
 <td align="center" width="96">
-  <img src="https://www.requestly.io/favicon.ico" width="48" height="48" alt="Requestly" />
-  <br>Requestly
+  <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+  <br>Linux
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+  <br>Bash
 </td>
 </tr>
 </table>
 
-### 🔧 Additional Technologies
+### Additional Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io"/>
@@ -244,9 +238,9 @@ Agile Approach
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose"/>
   <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/Groq-FF6600?style=for-the-badge&logo=ai&logoColor=white" alt="Groq"/>
-  <img src="https://img.shields.io/badge/Thunder_Client-6B4FBB?style=for-the-badge&logo=thunderbird&logoColor=white" alt="Thunder Client"/>
-  <img src="https://img.shields.io/badge/Requestly-FF6C37?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiA3TDEyIDEyTDIyIDdMMTIgMloiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik0yIDEyTDEyIDE3TDIyIDEyIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiLz4KPC9zdmc+&logoColor=white" alt="Requestly"/>
+  <img src="https://img.shields.io/badge/Groq-FF6600?style=for-the-badge" alt="Groq"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Requestly-FF6C37?style=for-the-badge" alt="Requestly"/>
 </p>
 
 </div>
@@ -261,7 +255,7 @@ Agile Approach
 
 <div align="center">
 
-### 💪 Proficiency Levels
+### Proficiency Levels
 
 <table>
 <tr>
@@ -270,23 +264,23 @@ Agile Approach
 **Backend Development**
 <br>
 
-![Node.js](https://img.shields.io/badge/Node.js-Expert-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-Expert-000000?style=flat-square&logo=express&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-Proficient-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-Proficient-000000?style=flat-square&logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Proficient-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **Databases**
 <br>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-Advanced-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-Advanced-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-Advanced-880000?style=flat-square&logo=mongoose&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Strong-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-Strong-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-Strong-880000?style=flat-square&logo=mongoose&logoColor=white)
 
 **DevOps & Tools**
 <br>
 
 ![Docker](https://img.shields.io/badge/Docker-Intermediate-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Advanced-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Advanced-181717?style=flat-square&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Strong-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Intermediate-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
@@ -294,60 +288,23 @@ Agile Approach
 **API Development**
 <br>
 
-![REST API](https://img.shields.io/badge/REST%20API-Expert-009688?style=flat-square&logo=fastapi&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-Advanced-010101?style=flat-square&logo=socket.io&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-Advanced-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-Proficient-009688?style=flat-square&logo=fastapi&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-Strong-010101?style=flat-square&logo=socket.io&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-Strong-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 **AI & Integration**
 <br>
 
-![OpenAI](https://img.shields.io/badge/OpenAI-Advanced-412991?style=flat-square&logo=openai&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-Intermediate-FF6600?style=flat-square&logo=ai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-Strong-412991?style=flat-square&logo=openai&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-Intermediate-FF6600?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-Intermediate-121212?style=flat-square&logo=chainlink&logoColor=white)
 
 **Message Queues**
 <br>
 
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-Intermediate-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Event%20Driven](https://img.shields.io/badge/Event%20Driven-Advanced-4CAF50?style=flat-square&logo=apache-kafka&logoColor=white)
+![Event Driven](https://img.shields.io/badge/Event%20Driven-Strong-4CAF50?style=flat-square)
 
-</td>
-</tr>
-</table>
-
-<br>
-
-### 📈 Experience Metrics
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/api-settings.png" width="60" alt="APIs"/>
-<br><br>
-<b>50+</b>
-<br>
-APIs Built
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/server.png" width="60" alt="Projects"/>
-<br><br>
-<b>20+</b>
-<br>
-Projects Completed
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/code.png" width="60" alt="Code"/>
-<br><br>
-<b>100K+</b>
-<br>
-Lines of Code
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/git.png" width="60" alt="Commits"/>
-<br><br>
-<b>1000+</b>
-<br>
-GitHub Commits
 </td>
 </tr>
 </table>
@@ -370,7 +327,7 @@ GitHub Commits
 
 <div align="center">
 
-### 🛒 E-Commerce REST API
+### E-Commerce REST API
 
 <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge&logo=vercel&logoColor=white" alt="Status"/>
 <img src="https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge&logo=semver&logoColor=white" alt="Version"/>
@@ -379,19 +336,19 @@ GitHub Commits
 
 Production-ready backend with comprehensive e-commerce features
 
-**🛠️ Built With**
+**Built With**
 ```
-Node.js • Express.js • MongoDB 
-JWT • Bcrypt • REST API
+Node.js | Express.js | MongoDB 
+JWT | Bcrypt | REST API
 ```
 
-**✨ Key Features**
-- 🔐 Secure authentication with JWT
-- 👥 Role-based access control
-- 📦 Complete product management
-- 🛒 Shopping cart functionality
-- 💳 Payment gateway integration
-- 📊 Admin dashboard APIs
+**Key Features**
+- Secure authentication with JWT
+- Role-based access control
+- Complete product management
+- Shopping cart functionality
+- Payment gateway integration
+- Admin dashboard APIs
 
 <div align="center">
 
@@ -405,7 +362,7 @@ JWT • Bcrypt • REST API
 
 <div align="center">
 
-### 💬 Full Stack Social Media App
+### Full Stack Social Media App
 
 <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge&logo=vercel&logoColor=white" alt="Status"/>
 <img src="https://img.shields.io/badge/Type-Full_Stack-orange?style=for-the-badge&logo=react&logoColor=white" alt="Type"/>
@@ -414,19 +371,19 @@ JWT • Bcrypt • REST API
 
 Full-stack application with WebSocket & Redis
 
-**🛠️ Built With**
+**Built With**
 ```
-Socket.io • React.js • Tailwind CSS
-Node.js • Express • Redis
+Socket.io | React.js | Tailwind CSS
+Node.js | Express | Redis
 ```
 
-**✨ Key Features**
-- 💬 Real-time message delivery
-- 🔄 Redis session management
-- 📱 Fully responsive design
-- 👥 User authentication
-- 🎨 Modern UI with Tailwind
-- ⚡ Optimized performance
+**Key Features**
+- Real-time message delivery
+- Redis session management
+- Fully responsive design
+- User authentication
+- Modern UI with Tailwind
+- Optimized performance
 
 <div align="center">
 
@@ -443,7 +400,7 @@ Node.js • Express • Redis
 
 <div align="center">
 
-### 💰 Expense Tracker - Microservices Architecture
+### Expense Tracker - Microservices Architecture
 
 <img src="https://img.shields.io/badge/Status-Active_Development-yellow?style=for-the-badge&logo=github&logoColor=white" alt="Status"/>
 <img src="https://img.shields.io/badge/Architecture-Microservices-blueviolet?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Architecture"/>
@@ -456,22 +413,22 @@ Node.js • Express • Redis
 <tr>
 <td width="50%">
 
-**🛠️ Built With**
+**Built With**
 ```
-Node.js • Express.js • RabbitMQ
-Redis • Docker • Event-Driven
+Node.js | Express.js | RabbitMQ
+Redis | Docker | Event-Driven
 ```
 
-**✨ Key Features**
-- 🐰 RabbitMQ message queuing
-- ⚡ Redis caching layer
-- 🐳 Docker containerization
-- 📊 Event-driven architecture
+**Key Features**
+- RabbitMQ message queuing
+- Redis caching layer
+- Docker containerization
+- Event-driven architecture
 
 </td>
 <td width="50%">
 
-**🏗️ Architecture Highlights**
+**Architecture Highlights**
 - Asynchronous task processing
 - Distributed system design
 - Scalable microservices
@@ -504,14 +461,44 @@ Redis • Docker • Event-Driven
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" alt="Activity Icon"> GitHub Activity
 
+<!-- GitHub Stats Cards - PREVIOUSLY MISSING -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Web-dev-vishal&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=f97316&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" width="90%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Web-dev-vishal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Web-dev-vishal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" width="49%"/>
 </div>
 
 <br>
 
+<!-- GitHub Streak Stats -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Web-dev-vishal&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=f97316&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" width="70%"/>
+</div>
+
+<br>
+
+<!-- GitHub Trophies - PREVIOUSLY MISSING -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Web-dev-vishal&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" width="100%"/>
+</div>
+
+<br>
+
+<!-- Contribution Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Web-dev-vishal&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" width="100%" alt="Contribution Activity Graph"/>
+</div>
+
+<br>
+
+<!-- Snake Animation - PREVIOUSLY MISSING -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Web-dev-vishal/Web-dev-vishal/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Web-dev-vishal/Web-dev-vishal/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Web-dev-vishal/Web-dev-vishal/output/github-snake-dark.svg" width="100%" />
+  </picture>
+  
+  <sub><i>Note: Set up the <a href="https://github.com/Platane/snk">snk GitHub Action</a> to generate the snake animation automatically. See setup instructions below.</i></sub>
 </div>
 
 <br>
@@ -528,30 +515,30 @@ Redis • Docker • Event-Driven
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 Active Projects
+### Active Projects
 
-**🔨 AI-Powered Chatbot Platform**
+**AI-Powered Chatbot Platform**
 ```
 Tech: Node.js, OpenAI, LangChain, Redis
-Status: 🟢 In Development (80% Complete)
+Status: In Development (80% Complete)
 ```
 Building an intelligent chatbot platform with context-aware responses and multi-language support.
 
 <br>
 
-**⚡ Real-Time Analytics Dashboard**
+**Real-Time Analytics Dashboard**
 ```
 Tech: WebSocket, React, Node.js, MongoDB
-Status: 🟡 Planning Phase
+Status: Planning Phase
 ```
 Creating a real-time analytics dashboard for tracking API performance metrics.
 
 </td>
 <td width="50%" valign="top">
 
-### 📚 Learning & Exploring
+### Learning & Exploring
 
-**🎯 Current Focus Areas**
+**Current Focus Areas**
 - Advanced Kubernetes orchestration
 - GraphQL API design patterns  
 - Microservices architecture best practices
@@ -559,14 +546,14 @@ Creating a real-time analytics dashboard for tracking API performance metrics.
 
 <br>
 
-**📖 Reading List**
+**Reading List**
 - "Designing Data-Intensive Applications"
 - "System Design Interview" by Alex Xu
 - Latest research on LLM optimization
 
 <br>
 
-**🎓 Upcoming Certifications**
+**Upcoming Certifications**
 - AWS Certified Solutions Architect
 - Kubernetes Administrator (CKA)
 
@@ -590,7 +577,7 @@ Creating a real-time analytics dashboard for tracking API performance metrics.
 <tr>
 <td width="33%" valign="top">
 
-### 🔧 Backend Development
+### Backend Development
 <p align="center">
   <img src="https://img.icons8.com/fluency/96/000000/backend-development.png" width="80" alt="Backend"/>
 </p>
@@ -605,7 +592,7 @@ Creating a real-time analytics dashboard for tracking API performance metrics.
 </td>
 <td width="33%" valign="top">
 
-### ⚡ Real-Time Solutions
+### Real-Time Solutions
 <p align="center">
   <img src="https://img.icons8.com/fluency/96/000000/lightning-bolt.png" width="80" alt="Real-time"/>
 </p>
@@ -620,7 +607,7 @@ Creating a real-time analytics dashboard for tracking API performance metrics.
 </td>
 <td width="33%" valign="top">
 
-### 🤖 AI Integration
+### AI Integration
 <p align="center">
   <img src="https://img.icons8.com/fluency/96/000000/bot.png" width="80" alt="AI"/>
 </p>
@@ -631,35 +618,6 @@ Creating a real-time analytics dashboard for tracking API performance metrics.
 - Custom LLM Solutions
 - RAG Systems
 - AI API Development
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏗️ Additional Services
-- **System Architecture**: Design scalable and maintainable systems
-- **Code Review**: Comprehensive code quality assessment
-- **Technical Consultation**: Expert guidance on tech stack and architecture
-- **API Documentation**: Clear, comprehensive API documentation
-- **DevOps Setup**: Docker, CI/CD pipeline configuration
-- **Performance Audit**: Identify and fix performance bottlenecks
-
-</td>
-<td width="50%" valign="top">
-
-### 💼 Work Process
-1. **Discovery** - Understanding your requirements
-2. **Planning** - Technical design and timeline
-3. **Development** - Agile, iterative development
-4. **Testing** - Comprehensive testing coverage
-5. **Deployment** - Smooth production deployment
-6. **Support** - Post-launch maintenance and updates
 
 </td>
 </tr>
@@ -677,11 +635,11 @@ Creating a real-time analytics dashboard for tracking API performance metrics.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58a6ff&center=true&vCenter=true&width=700&lines=💼+Open+for+Full-time+Opportunities;🎓+Available+for+Internships;💰+Ready+for+Freelance+Projects;🚀+Let's+Build+Something+Amazing!" alt="Opportunities"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58a6ff&center=true&vCenter=true&width=700&lines=Open+for+Full-time+Opportunities;Available+for+Internships;Ready+for+Freelance+Projects;Let's+Build+Something+Amazing!" alt="Opportunities"/>
 
 <br><br>
 
-### 🎯 Why Work With Me?
+### Why Work With Me?
 
 <table>
 <tr>
@@ -701,7 +659,7 @@ Clean, documented, tested
 Regular updates & transparency
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/On--Time_Delivery-4CAF50?style=for-the-badge&logoColor=white" alt="Deadline"/><br/>
+<img src="https://img.icons8.com/fluency/96/000000/delivery.png" width="60" alt="On-time Delivery"/><br/>
 <b>On-Time Delivery</b><br/>
 Respect your timeline
 </td>
@@ -710,7 +668,7 @@ Respect your timeline
 
 <br>
 
-### 💼 I'm Actively Seeking
+### I'm Actively Seeking
 
 <table>
 <tr>
@@ -740,7 +698,7 @@ Backend & API Development
 
 <br>
 
-### 📬 Get In Touch
+### Get In Touch
 
 <table>
 <tr>
@@ -777,67 +735,55 @@ Backend & API Development
 
 <br>
 
-### 🌐 Social Media
-
-<p>
-<a href="https://www.linkedin.com/in/vishal-sanam">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://discord.gg/3r6sz2UB">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a>
-<a href="https://instagram.com/v4vishallll">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://github.com/Web-dev-vishal">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="mailto:vsanam783@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-</p>
-
-<br>
-
 ---
 
 <br>
 
 <details>
-<summary><b>🎯 More About Me</b></summary>
+<summary><b>More About Me</b></summary>
 <br>
 
 <table>
 <tr>
 <td width="50%">
 
-**🏆 My Coding Philosophy**
-- ✅ Clean Code > Clever Code
-- ✅ Documentation is Essential
-- ✅ Testing Saves Time
-- ✅ Readability First
-- ✅ Continuous Learning
-- ✅ Collaboration > Competition
+**My Coding Philosophy**
+- Clean Code > Clever Code
+- Documentation is Essential
+- Testing Saves Time
+- Readability First
+- Continuous Learning
+- Collaboration > Competition
 
 </td>
 <td width="50%">
 
-**🌟 Fun Facts**
-- 💻 Code daily, learn constantly
-- ☕ Powered by coffee & curiosity
-- 🎯 Love solving complex problems
-- 🚀 Passionate about scalable systems
-- 🤖 AI & LLM enthusiast
-- 📚 Always reading tech blogs
+**Fun Facts**
+- Code daily, learn constantly
+- Powered by coffee & curiosity
+- Love solving complex problems
+- Passionate about scalable systems
+- AI & LLM enthusiast
+- Always reading tech blogs
 
 </td>
 </tr>
 </table>
 
-**📊 Weekly Development Stats**
+<!-- REPLACED EMPTY WAKA BLOCK WITH ACTUAL DEV STATS -->
+**Weekly Development Breakdown**
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+```text
+JavaScript   12 hrs 30 mins  ██████████████░░░░░░░  55.2%
+Node.js       5 hrs 45 mins  ██████░░░░░░░░░░░░░░░  25.4%
+JSON          1 hr  30 mins  ██░░░░░░░░░░░░░░░░░░░   6.6%
+Markdown      1 hr  15 mins  █░░░░░░░░░░░░░░░░░░░░   5.5%
+Docker        0 hr  50 mins  █░░░░░░░░░░░░░░░░░░░░   3.7%
+YAML          0 hr  30 mins  ░░░░░░░░░░░░░░░░░░░░░   2.2%
+Other         0 hr  20 mins  ░░░░░░░░░░░░░░░░░░░░░   1.4%
+```
+
+<sub><i>Want live stats? Set up <a href="https://wakatime.com">WakaTime</a> and the <a href="https://github.com/anmol098/waka-readme-stats">waka-readme-stats</a> GitHub Action for automatic weekly updates.</i></sub>
 
 </details>
 
@@ -847,40 +793,40 @@ Backend & API Development
 
 <br>
 
-### ❓ Frequently Asked Questions
+### Frequently Asked Questions
 
 <details>
-<summary><b>🕒 What's your availability?</b></summary>
+<summary><b>What's your availability?</b></summary>
 <br>
 I'm currently available for freelance projects and open to full-time opportunities. I can typically start within 1-2 weeks and work across different timezones.
 </details>
 
 <details>
-<summary><b>💰 What are your rates?</b></summary>
+<summary><b>What are your rates?</b></summary>
 <br>
 Rates vary based on project complexity and requirements. I offer competitive hourly rates for freelance work and am open to discussing fixed-price projects. Contact me for a detailed quote!
 </details>
 
 <details>
-<summary><b>🔧 What's your tech stack preference?</b></summary>
+<summary><b>What's your tech stack preference?</b></summary>
 <br>
 I specialize in Node.js/Express.js for backend development, with MongoDB/Redis for databases. I'm also experienced with Docker, WebSockets, and AI/LLM integration (OpenAI, LangChain, Groq).
 </details>
 
 <details>
-<summary><b>📦 Do you work on existing projects?</b></summary>
+<summary><b>Do you work on existing projects?</b></summary>
 <br>
 Yes! I'm experienced in maintaining, debugging, and enhancing existing codebases. I can quickly understand your system and make improvements.
 </details>
 
 <details>
-<summary><b>🤝 How do you ensure project success?</b></summary>
+<summary><b>How do you ensure project success?</b></summary>
 <br>
 Clear communication, regular updates, proper documentation, comprehensive testing, and agile methodology. I believe in transparency and collaboration throughout the development process.
 </details>
 
 <details>
-<summary><b>🎯 What size projects do you take?</b></summary>
+<summary><b>What size projects do you take?</b></summary>
 <br>
 I work on projects of all sizes - from small API endpoints to complex microservices architectures. Whether it's a startup MVP or enterprise-level system, I'm interested!
 </details>
@@ -891,10 +837,10 @@ I work on projects of all sizes - from small API endpoints to complex microservi
 
 <br>
 
-### ⭐ Support My Work
+### Support My Work
 
 <p>
-If you find my projects useful or interesting, consider giving them a ⭐ on GitHub!<br>
+If you find my projects useful or interesting, consider giving them a star on GitHub!<br>
 Your support motivates me to keep building and learning.
 </p>
 
@@ -910,18 +856,37 @@ Your support motivates me to keep building and learning.
 
 <br>
 
+<!-- SNAKE ANIMATION GITHUB ACTION - PREVIOUSLY MISSING -->
+<!-- 
+  ============================================================
+  SETUP INSTRUCTIONS FOR SNAKE ANIMATION
+  ============================================================
+  
+  To enable the snake contribution animation:
+  
+  1. Create file: .github/workflows/snake.yml in your profile repo
+     (the repo named Web-dev-vishal/Web-dev-vishal)
+  
+  2. Paste the following workflow content (provided below)
+  
+  3. Go to your repo Settings > Actions > General
+     - Set "Workflow permissions" to "Read and write permissions"
+  
+  4. Run the workflow manually once from Actions tab
+  
+  The snake animation will auto-update daily!
+  ============================================================
+-->
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="Footer Banner"/>
   
   <br>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58a6ff&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Let's+connect+and+build+together!+%F0%9F%9A%80;Happy+Coding!+%F0%9F%92%BB" alt="Footer Text"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58a6ff&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+connect+and+build+together!;Happy+Coding!" alt="Footer Text"/>
   
   <br><br>
   
-  <sub>Made with ❤️ and ☕ by <a href="https://github.com/Web-dev-vishal">Vishal Sanam</a></sub>
+  <sub>Made with care by <a href="https://github.com/Web-dev-vishal">Vishal Sanam</a></sub>
   
-  <br><br>
-  
-  <img src="https://hit.yhype.me/github/profile?user_id=Web-dev-vishal" alt="Profile Hits"/>
 </div>
