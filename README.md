@@ -43,7 +43,7 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider 1">
 
 <br>
 
@@ -143,7 +143,7 @@ Agile Approach
 
 <br clear="right"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider 2">
 
 <br>
 
@@ -232,7 +232,7 @@ Agile Approach
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider 3">
 
 <br>
 
@@ -298,7 +298,7 @@ Agile Approach
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider 4">
 
 <br>
 
@@ -440,13 +440,12 @@ Redis | Docker | Event-Driven
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider 5">
 
 <br>
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" alt="Activity Icon"> GitHub Activity
 
-<!-- GitHub Stats Cards - PREVIOUSLY MISSING -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Web-dev-vishal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Web-dev-vishal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" width="49%"/>
@@ -454,41 +453,46 @@ Redis | Docker | Event-Driven
 
 <br>
 
-<!-- GitHub Streak Stats -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Web-dev-vishal&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=f97316&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" width="70%"/>
 </div>
 
 <br>
 
-<!-- GitHub Trophies - PREVIOUSLY MISSING -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Web-dev-vishal&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" width="100%"/>
 </div>
 
 <br>
 
-<!-- Contribution Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Web-dev-vishal&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" width="100%" alt="Contribution Activity Graph"/>
 </div>
 
 <br>
 
-<!-- Snake Animation - PREVIOUSLY MISSING -->
-<div align="center">
+<!-- 
+  ============================================================
+  SNAKE ANIMATION — CURRENTLY DISABLED UNTIL GITHUB ACTION IS SET UP
+  ============================================================
+  To enable:
+  1. Create .github/workflows/snake.yml in your profile repo (Web-dev-vishal/Web-dev-vishal)
+  2. Paste the snk workflow from: https://github.com/Platane/snk
+  3. Go to Settings > Actions > General > set "Read and write permissions"
+  4. Run the workflow manually once from the Actions tab
+  5. Then uncomment the <picture> block below — the SVGs will exist after the first run
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Web-dev-vishal/Web-dev-vishal/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Web-dev-vishal/Web-dev-vishal/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Web-dev-vishal/Web-dev-vishal/output/github-snake-dark.svg" width="100%" />
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Web-dev-vishal/Web-dev-vishal/output/github-snake-dark.svg" width="100%" />
   </picture>
-  
-  <sub><i>Note: Set up the <a href="https://github.com/Platane/snk">snk GitHub Action</a> to generate the snake animation automatically. See setup instructions below.</i></sub>
-</div>
+  ============================================================
+-->
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider 6">
 
 <br>
 
@@ -550,7 +554,7 @@ Creating a real-time analytics dashboard for tracking API performance metrics.
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider 7">
 
 <br>
 
@@ -612,7 +616,7 @@ Creating a real-time analytics dashboard for tracking API performance metrics.
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider 8">
 
 <br>
 
@@ -755,20 +759,11 @@ Backend & API Development
 </tr>
 </table>
 
-<!-- REPLACED EMPTY WAKA BLOCK WITH ACTUAL DEV STATS -->
-**Weekly Development Breakdown**
-
-```text
-JavaScript   12 hrs 30 mins  ██████████████░░░░░░░  55.2%
-Node.js       5 hrs 45 mins  ██████░░░░░░░░░░░░░░░  25.4%
-JSON          1 hr  30 mins  ██░░░░░░░░░░░░░░░░░░░   6.6%
-Markdown      1 hr  15 mins  █░░░░░░░░░░░░░░░░░░░░   5.5%
-Docker        0 hr  50 mins  █░░░░░░░░░░░░░░░░░░░░   3.7%
-YAML          0 hr  30 mins  ░░░░░░░░░░░░░░░░░░░░░   2.2%
-Other         0 hr  20 mins  ░░░░░░░░░░░░░░░░░░░░░   1.4%
-```
-
-<sub><i>Want live stats? Set up <a href="https://wakatime.com">WakaTime</a> and the <a href="https://github.com/anmol098/waka-readme-stats">waka-readme-stats</a> GitHub Action for automatic weekly updates.</i></sub>
+<!--
+  WakaTime Weekly Stats — replace this comment block with the live waka-readme-stats
+  GitHub Action output once you have WakaTime set up.
+  Setup guide: https://github.com/anmol098/waka-readme-stats
+-->
 
 </details>
 
@@ -782,37 +777,49 @@ Other         0 hr  20 mins  ░░░░░░░░░░░░░░░░░
 
 <details>
 <summary><b>What's your availability?</b></summary>
+
 <br>
+
 I'm currently available for freelance projects and open to full-time opportunities. I can typically start within 1-2 weeks and work across different timezones.
 </details>
 
 <details>
 <summary><b>What are your rates?</b></summary>
+
 <br>
+
 Rates vary based on project complexity and requirements. I offer competitive hourly rates for freelance work and am open to discussing fixed-price projects. Contact me for a detailed quote!
 </details>
 
 <details>
 <summary><b>What's your tech stack preference?</b></summary>
+
 <br>
+
 I specialize in Node.js/Express.js for backend development, with MongoDB/Redis for databases. I'm also experienced with Docker, WebSockets, and AI/LLM integration (OpenAI, LangChain, Groq).
 </details>
 
 <details>
 <summary><b>Do you work on existing projects?</b></summary>
+
 <br>
+
 Yes! I'm experienced in maintaining, debugging, and enhancing existing codebases. I can quickly understand your system and make improvements.
 </details>
 
 <details>
 <summary><b>How do you ensure project success?</b></summary>
+
 <br>
+
 Clear communication, regular updates, proper documentation, comprehensive testing, and agile methodology. I believe in transparency and collaboration throughout the development process.
 </details>
 
 <details>
 <summary><b>What size projects do you take?</b></summary>
+
 <br>
+
 I work on projects of all sizes - from small API endpoints to complex microservices architectures. Whether it's a startup MVP or enterprise-level system, I'm interested!
 </details>
 
@@ -837,31 +844,9 @@ Your support motivates me to keep building and learning.
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Section Divider 9">
 
 <br>
-
-<!-- SNAKE ANIMATION GITHUB ACTION - PREVIOUSLY MISSING -->
-<!-- 
-  ============================================================
-  SETUP INSTRUCTIONS FOR SNAKE ANIMATION
-  ============================================================
-  
-  To enable the snake contribution animation:
-  
-  1. Create file: .github/workflows/snake.yml in your profile repo
-     (the repo named Web-dev-vishal/Web-dev-vishal)
-  
-  2. Paste the following workflow content (provided below)
-  
-  3. Go to your repo Settings > Actions > General
-     - Set "Workflow permissions" to "Read and write permissions"
-  
-  4. Run the workflow manually once from Actions tab
-  
-  The snake animation will auto-update daily!
-  ============================================================
--->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="Footer Banner"/>
