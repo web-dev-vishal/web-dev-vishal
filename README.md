@@ -378,14 +378,70 @@ Node.js | Express | Redis
 </div>
 
 </td>
-
 </tr>
+
 <tr>
 <td width="100%" colspan="2" valign="top">
 
 <div align="center">
 
-### Expense Tracker - Microservices Architecture
+### Global-Fi Ultra — Financial Data Aggregator
+
+<img src="https://img.shields.io/badge/Status-Production_Ready-success?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Status"/>
+<img src="https://img.shields.io/badge/Uptime-99%25-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white" alt="Uptime"/>
+<img src="https://img.shields.io/badge/Architecture-Fault_Tolerant-blueviolet?style=for-the-badge&logo=resilience&logoColor=white" alt="Architecture"/>
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="50%">
+
+**Built With**
+```
+Node.js | Express.js | Socket.io
+MongoDB | Redis | Docker
+```
+
+**Key Features**
+- 6+ external APIs with real-time WebSocket streaming
+- Circuit breakers & exponential backoff (99% uptime)
+- Big.js arbitrary-precision decimal arithmetic
+- Redis caching: 70% fewer API calls
+
+</td>
+<td width="50%">
+
+**Performance Highlights**
+- Response latency reduced from **800ms → 200ms**
+- Multi-stage Docker builds for horizontal scaling
+- Rate limiting, request throttling & API key auth
+- Fault-tolerant design with graceful failure recovery
+- Floating-point error-free financial calculations
+- Stateless, container-first deployment
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Web-dev-vishal/Global-Fi-Ultra)
+[![Docs](https://img.shields.io/badge/Documentation-Read_More-blue?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/Web-dev-vishal/Global-Fi-Ultra#readme)
+
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td width="100%" colspan="2" valign="top">
+
+<div align="center">
+
+### Expense Tracker — Microservices Architecture
 
 <img src="https://img.shields.io/badge/Status-Active_Development-yellow?style=for-the-badge&logo=github&logoColor=white" alt="Status"/>
 <img src="https://img.shields.io/badge/Architecture-Microservices-blueviolet?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Architecture"/>
