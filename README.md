@@ -308,80 +308,7 @@ Agile Approach
 
 <table border="0">
 <tr>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### E-Commerce REST API
-
-<img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge&logo=vercel&logoColor=white" alt="Status"/>
-<img src="https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge&logo=semver&logoColor=white" alt="Version"/>
-
-</div>
-
-Production-ready backend with comprehensive e-commerce features
-
-**Built With**
-```
-Node.js | Express.js | MongoDB 
-JWT | Bcrypt | REST API
-```
-
-**Key Features**
-- Secure authentication with JWT
-- Role-based access control
-- Complete product management
-- Shopping cart functionality
-- Payment gateway integration
-- Admin dashboard APIs
-
-<div align="center">
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Web-dev-vishal/E_Commerces_API_Node.js)
-[![Live](https://img.shields.io/badge/Live-Try_Demo-46E3B7?style=for-the-badge&logo=render)](https://e-commerces-api-node-js.onrender.com/)
-
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### Full Stack Social Media App
-
-<img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge&logo=vercel&logoColor=white" alt="Status"/>
-<img src="https://img.shields.io/badge/Type-Full_Stack-orange?style=for-the-badge&logo=react&logoColor=white" alt="Type"/>
-
-</div>
-
-Full-stack application with WebSocket & Redis
-
-**Built With**
-```
-Socket.io | React.js | Tailwind CSS
-Node.js | Express | Redis
-```
-
-**Key Features**
-- Real-time message delivery
-- Redis session management
-- Fully responsive design
-- User authentication
-- Modern UI with Tailwind
-- Optimized performance
-
-<div align="center">
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Web-dev-vishal/Major_project)
-[![Live](https://img.shields.io/badge/Live-Try_Demo-46E3B7?style=for-the-badge&logo=render)](https://major-project-6rrg.onrender.com/signin)
-
-</div>
-
-</td>
-</tr>
-
-<tr>
-<td width="100%" colspan="2" valign="top">
+<td width="100%" valign="top">
 
 <div align="center">
 
@@ -430,61 +357,6 @@ MongoDB | Redis | Docker
 
 [![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Web-dev-vishal/Global-Fi-Ultra)
 [![Docs](https://img.shields.io/badge/Documentation-Read_More-blue?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/Web-dev-vishal/Global-Fi-Ultra#readme)
-
-</div>
-
-</td>
-</tr>
-
-<tr>
-<td width="100%" colspan="2" valign="top">
-
-<div align="center">
-
-### Expense Tracker — Microservices Architecture
-
-<img src="https://img.shields.io/badge/Status-Active_Development-yellow?style=for-the-badge&logo=github&logoColor=white" alt="Status"/>
-<img src="https://img.shields.io/badge/Architecture-Microservices-blueviolet?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Architecture"/>
-
-</div>
-
-<br>
-
-<table>
-<tr>
-<td width="50%">
-
-**Built With**
-```
-Node.js | Express.js | RabbitMQ
-Redis | Docker | Event-Driven
-```
-
-**Key Features**
-- RabbitMQ message queuing
-- Redis caching layer
-- Docker containerization
-- Event-driven architecture
-
-</td>
-<td width="50%">
-
-**Architecture Highlights**
-- Asynchronous task processing
-- Distributed system design
-- Scalable microservices
-- Fault-tolerant messaging
-- High availability setup
-- Load balancing ready
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Web-dev-vishal/Expense_Tracker)
-[![Docs](https://img.shields.io/badge/Documentation-Read_More-blue?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/Web-dev-vishal/Expense_Tracker#readme)
 
 </div>
 
