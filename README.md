@@ -341,6 +341,7 @@ MongoDB | Redis | Docker
 <div align="center">
 
 [![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Web-dev-vishal/Global-Fi-Ultra)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-View_Deployment-00C853?style=for-the-badge&logo=render&logoColor=white)](https://global-fi-ultra.onrender.com/)
 [![Docs](https://img.shields.io/badge/Documentation-Read_More-blue?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/Web-dev-vishal/Global-Fi-Ultra#readme)
 
 </div>
