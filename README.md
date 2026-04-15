@@ -1,6 +1,3 @@
-Here is the complete, updated code for your GitHub Profile README. I have integrated **Thunder Client** and **Claude AI** into your Core Technologies table and ensured the layout remains perfectly aligned.
-
-```markdown
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vishal%20Sanam&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer%20%7C%20API%20Architect%20%7C%20AI%20Enthusiast&descSize=20&descAlignY=55" width="100%" alt="Header Banner"/>
 </div>
