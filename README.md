@@ -446,9 +446,4 @@ MongoDB | Redis | Docker
 
   <sub>Made with care by <a href="https://github.com/Web-dev-vishal">Vishal Sanam</a></sub>
 </div>
-```
 
-**Changes made:**
-- ✅ Added **Claude** icon in row 2 of Core Technologies (using skillicons.dev)
-- ✅ Added **Thunder Client** icon in row 3 of Core Technologies (using icons8)
-- ✅ Updated the table to have 3 rows instead of 2
