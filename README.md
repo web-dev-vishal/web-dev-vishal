@@ -1,3 +1,6 @@
+Here is the complete, updated code for your GitHub Profile README. I have integrated **Thunder Client** and **Claude AI** into your Core Technologies table and ensured the layout remains perfectly aligned.
+
+```markdown
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vishal%20Sanam&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer%20%7C%20API%20Architect%20%7C%20AI%20Enthusiast&descSize=20&descAlignY=55" width="100%" alt="Header Banner"/>
 </div>
@@ -63,9 +66,9 @@ const vishal = {
     languages: ["JavaScript", "Node.js"],
     backend: ["Express.js", "Socket.io", "REST APIs"],
     databases: ["MongoDB", "Redis", "Mongoose"],
-    ai: ["OpenAI", "Groq", "LangChain", "LLM Integration"],
+    ai: ["OpenAI", "Claude", "Groq", "LangChain"],
     devOps: ["Docker", "GitHub Actions", "RabbitMQ"],
-    tools: ["Requestly", "Thunder Client", "Postman"],
+    tools: ["Thunder Client", "Postman", "Requestly"],
   },
 
   currentFocus: [
@@ -185,16 +188,16 @@ I'm passionate about creating **robust, scalable backend systems** that power mo
 </tr>
 <tr>
 <td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
-  <br>Git
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/>
-  <br>GitHub
-</td>
-<td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman"/>
   <br>Postman
+</td>
+<td align="center" width="96">
+  <img src="https://raw.githubusercontent.com/rangav/thunder-client-support/master/images/logo.png" width="48" height="48" alt="Thunder Client"/>
+  <br>Thunder Client
+</td>
+<td align="center" width="96">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Anthropic_logo.svg/1200px-Anthropic_logo.svg.png" width="48" height="48" alt="Claude AI" style="object-fit: contain;"/>
+  <br>Claude AI
 </td>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/>
@@ -205,8 +208,8 @@ I'm passionate about creating **robust, scalable backend systems** that power mo
   <br>Linux
 </td>
 <td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash"/>
-  <br>Bash
+  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/>
+  <br>GitHub
 </td>
 </tr>
 </table>
@@ -268,7 +271,7 @@ I'm passionate about creating **robust, scalable backend systems** that power mo
 
 **AI & Integration**<br>
 ![OpenAI](https://img.shields.io/badge/OpenAI-Strong-412991?style=flat-square&logo=openai&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-Intermediate-FF6600?style=flat-square)
+![Claude AI](https://img.shields.io/badge/Claude_AI-Strong-D97757?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-Intermediate-121212?style=flat-square&logo=chainlink&logoColor=white)
 
 **Message Queues**<br>
@@ -436,3 +439,4 @@ MongoDB | Redis | Docker
 
   <sub>Made with care by <a href="https://github.com/Web-dev-vishal">Vishal Sanam</a></sub>
 </div>
+```
