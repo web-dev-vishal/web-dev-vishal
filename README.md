@@ -63,9 +63,9 @@ const vishal = {
     languages: ["JavaScript", "Node.js"],
     backend: ["Express.js", "Socket.io", "REST APIs"],
     databases: ["MongoDB", "Redis", "Mongoose"],
-    ai: ["OpenAI", "Claude", "Groq", "LangChain"],
+    ai: ["OpenAI", "Groq", "LangChain", "LLM Integration"],
     devOps: ["Docker", "GitHub Actions", "RabbitMQ"],
-    tools: ["Thunder Client", "Postman", "Requestly"],
+    tools: ["Requestly", "Thunder Client", "Postman"],
   },
 
   currentFocus: [
@@ -185,16 +185,20 @@ I'm passionate about creating **robust, scalable backend systems** that power mo
 </tr>
 <tr>
 <td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
+  <br>Git
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/>
+  <br>GitHub
+</td>
+<td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman"/>
   <br>Postman
 </td>
 <td align="center" width="96">
-  <img src="https://raw.githubusercontent.com/rangav/thunder-client-support/master/images/logo.png" width="48" height="48" alt="Thunder Client"/>
-  <br>Thunder Client
-</td>
-<td align="center" width="96">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Anthropic_logo.svg/1200px-Anthropic_logo.svg.png" width="48" height="48" alt="Claude AI" style="object-fit: contain;"/>
-  <br>Claude AI
+  <img src="https://skillicons.dev/icons?i=claude" width="48" height="48" alt="Claude"/>
+  <br>Claude
 </td>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/>
@@ -204,9 +208,15 @@ I'm passionate about creating **robust, scalable backend systems** that power mo
   <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/>
   <br>Linux
 </td>
+</tr>
+<tr>
 <td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/>
-  <br>GitHub
+  <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash"/>
+  <br>Bash
+</td>
+<td align="center" width="96">
+  <img src="https://img.icons8.com/fluency/48/000000/thunder-client.png" width="48" height="48" alt="Thunder Client"/>
+  <br>Thunder Client
 </td>
 </tr>
 </table>
@@ -268,7 +278,7 @@ I'm passionate about creating **robust, scalable backend systems** that power mo
 
 **AI & Integration**<br>
 ![OpenAI](https://img.shields.io/badge/OpenAI-Strong-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude_AI-Strong-D97757?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq-Intermediate-FF6600?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-Intermediate-121212?style=flat-square&logo=chainlink&logoColor=white)
 
 **Message Queues**<br>
@@ -437,3 +447,8 @@ MongoDB | Redis | Docker
   <sub>Made with care by <a href="https://github.com/Web-dev-vishal">Vishal Sanam</a></sub>
 </div>
 ```
+
+**Changes made:**
+- ✅ Added **Claude** icon in row 2 of Core Technologies (using skillicons.dev)
+- ✅ Added **Thunder Client** icon in row 3 of Core Technologies (using icons8)
+- ✅ Updated the table to have 3 rows instead of 2
