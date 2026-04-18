@@ -23,7 +23,7 @@
 <a href="https://discord.gg/3r6sz2UB">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" alt="Discord"/>
 </a>
-<a href="https://instagram.com/v4vishallll">
+<a href="https://instagram.com/dev.vishall">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
 </a>
 <img src="https://img.shields.io/badge/Available_For_Hire-00C853?style=for-the-badge&logoColor=white" alt="Available for Hire"/>
@@ -197,8 +197,8 @@ I'm passionate about creating **robust, scalable backend systems** that power mo
   <br>Postman
 </td>
 <td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=openai" width="48" height="48" alt="OpenAI"/>
-  <br>OpenAI
+  <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="RabbitMQ"/>
+  <br>RabbitMQ
 </td>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/>
@@ -215,8 +215,8 @@ I'm passionate about creating **robust, scalable backend systems** that power mo
   <br>Bash
 </td>
 <td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="RabbitMQ"/>
-  <br>RabbitMQ
+  <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions"/>
+  <br>GH Actions
 </td>
 </tr>
 </table>
@@ -393,7 +393,7 @@ MongoDB | Redis | Docker
 
 <br>
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" alt="Wave Icon"> Let's Connect & Collaborate!
+## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="35" alt="Wave Icon"> Let's Connect & Collaborate!
 
 <div align="center">
 
@@ -404,13 +404,13 @@ MongoDB | Redis | Docker
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/gmail.png" width="65" alt="Email Icon"/>
+<img src="https://img.icons8.com/fluency/96/000000/gmail-new.png" width="65" alt="Email Icon"/>
 <br><br>
 <b>Email</b><br>
 <a href="mailto:vsanam783@gmail.com">vsanam783@gmail.com</a>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/linkedin.png" width="65" alt="LinkedIn Icon"/>
+<img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="65" alt="LinkedIn Icon"/>
 <br><br>
 <b>LinkedIn</b><br>
 <a href="https://www.linkedin.com/in/vishal-sanam">Connect with me</a>
@@ -422,7 +422,7 @@ MongoDB | Redis | Docker
 <a href="https://github.com/Web-dev-vishal">@Web-dev-vishal</a>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/discord-logo.png" width="65" alt="Discord Icon"/>
+<img src="https://img.icons8.com/fluency/96/000000/discord-logo.png" width="65" alt="Discord Icon"/>
 <br><br>
 <b>Discord</b><br>
 <a href="https://discord.gg/3r6sz2UB">Join Server</a>
