@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
 </a>
 <img src="https://img.shields.io/badge/Available_For_Hire-00C853?style=for-the-badge&logoColor=white" alt="Available for Hire"/>
-<img src="https://img.shields.io/badge/Response_Time:_24hrs-FF6B6B?style=for-the-badge&logoColor=white" alt="Response Time"/>
+<img src="https://img.shields.io/badge/Response_Time-24hrs-FF6B6B?style=for-the-badge&logoColor=white" alt="Response Time"/>
 
 </div>
 
@@ -60,7 +60,7 @@ const vishal = {
   role: "Backend Developer",
 
   techStack: {
-    languages: ["JavaScript", "Node.js"],
+    languages: ["JavaScript", "TypeScript", "Node.js"],
     backend: ["Express.js", "Socket.io", "REST APIs"],
     databases: ["MongoDB", "Redis", "Mongoose"],
     ai: ["OpenAI", "Groq", "LangChain", "LLM Integration"],
@@ -197,8 +197,8 @@ I'm passionate about creating **robust, scalable backend systems** that power mo
   <br>Postman
 </td>
 <td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=claude" width="48" height="48" alt="Claude"/>
-  <br>Claude
+  <img src="https://skillicons.dev/icons?i=openai" width="48" height="48" alt="OpenAI"/>
+  <br>OpenAI
 </td>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/>
@@ -215,8 +215,8 @@ I'm passionate about creating **robust, scalable backend systems** that power mo
   <br>Bash
 </td>
 <td align="center" width="96">
-  <img src="https://img.icons8.com/fluency/48/000000/thunder-client.png" width="48" height="48" alt="Thunder Client"/>
-  <br>Thunder Client
+  <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="RabbitMQ"/>
+  <br>RabbitMQ
 </td>
 </tr>
 </table>
@@ -229,10 +229,10 @@ I'm passionate about creating **robust, scalable backend systems** that power mo
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose"/>
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/Groq-FF6600?style=for-the-badge" alt="Groq"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/Groq-FF6600?style=for-the-badge&logoColor=white" alt="Groq"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Requestly-FF6C37?style=for-the-badge" alt="Requestly"/>
+  <img src="https://img.shields.io/badge/Requestly-FF6C37?style=for-the-badge&logoColor=white" alt="Requestly"/>
 </p>
 
 </div>
@@ -272,18 +272,18 @@ I'm passionate about creating **robust, scalable backend systems** that power mo
 <td width="50%" valign="top">
 
 **API Development**<br>
-![REST API](https://img.shields.io/badge/REST%20API-Proficient-009688?style=flat-square&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-Proficient-009688?style=flat-square&logo=postman&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-Strong-010101?style=flat-square&logo=socket.io&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-Strong-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 **AI & Integration**<br>
 ![OpenAI](https://img.shields.io/badge/OpenAI-Strong-412991?style=flat-square&logo=openai&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-Intermediate-FF6600?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-Intermediate-121212?style=flat-square&logo=chainlink&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-Intermediate-FF6600?style=flat-square&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-Intermediate-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
 **Message Queues**<br>
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-Intermediate-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Event Driven](https://img.shields.io/badge/Event%20Driven-Strong-4CAF50?style=flat-square)
+![Event Driven](https://img.shields.io/badge/Event%20Driven-Strong-4CAF50?style=flat-square&logoColor=white)
 
 </td>
 </tr>
@@ -309,9 +309,9 @@ I'm passionate about creating **robust, scalable backend systems** that power mo
 
 ### Global-Fi Ultra — Financial Data Aggregator
 
-<img src="https://img.shields.io/badge/Status-Production_Ready-success?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Status"/>
-<img src="https://img.shields.io/badge/Uptime-99%25-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white" alt="Uptime"/>
-<img src="https://img.shields.io/badge/Architecture-Fault_Tolerant-blueviolet?style=for-the-badge&logo=resilience&logoColor=white" alt="Architecture"/>
+<img src="https://img.shields.io/badge/Status-Production_Ready-00C853?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Status"/>
+<img src="https://img.shields.io/badge/Uptime-99%25-brightgreen?style=for-the-badge&logo=uptimerobot&logoColor=white" alt="Uptime"/>
+<img src="https://img.shields.io/badge/Architecture-Fault_Tolerant-7C3AED?style=for-the-badge&logoColor=white" alt="Architecture"/>
 
 </div>
 
@@ -352,7 +352,7 @@ MongoDB | Redis | Docker
 
 [![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Web-dev-vishal/Global-Fi-Ultra)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-View_Deployment-00C853?style=for-the-badge&logo=render&logoColor=white)](https://global-fi-ultra.onrender.com/)
-[![Docs](https://img.shields.io/badge/Documentation-Read_More-blue?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/Web-dev-vishal/Global-Fi-Ultra#readme)
+[![Docs](https://img.shields.io/badge/Documentation-Read_More-0A66C2?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/Web-dev-vishal/Global-Fi-Ultra#readme)
 
 </div>
 
@@ -380,6 +380,7 @@ MongoDB | Redis | Docker
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Web-dev-vishal&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=f97316&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" width="70%"/>
 </div>
+
 <br>
 
 <div align="center">
@@ -444,6 +445,5 @@ MongoDB | Redis | Docker
 
   <br><br>
 
-  <sub>Made with care by <a href="https://github.com/Web-dev-vishal">Vishal Sanam</a></sub>
+  <sub>Made with ❤️ by <a href="https://github.com/Web-dev-vishal">Vishal Sanam</a></sub>
 </div>
-
