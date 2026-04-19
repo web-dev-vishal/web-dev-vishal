@@ -20,7 +20,7 @@
 <a href="mailto:vsanam783@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
 </a>
-<a href="https://discord.gg/3r6sz2UB">
+<a href="https://discord.gg/9qfX7QHapM">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" alt="Discord"/>
 </a>
 <a href="https://instagram.com/dev.vishall">
@@ -425,7 +425,7 @@ MongoDB | Redis | Docker
 <img src="https://img.icons8.com/fluency/96/000000/discord-logo.png" width="65" alt="Discord Icon"/>
 <br><br>
 <b>Discord</b><br>
-<a href="https://discord.gg/3r6sz2UB">Join Server</a>
+<a href="https://discord.gg/9qfX7QHapM">Join Server</a>
 </td>
 </tr>
 </table>
