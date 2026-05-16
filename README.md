@@ -222,36 +222,6 @@ MongoDB · Redis · Docker
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Web-dev-vishal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7C6AFF&text_color=c9d1d9&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Web-dev-vishal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&langs_count=8" width="49%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Web-dev-vishal&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" width="60%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Web-dev-vishal&bg_color=0D1117&color=00D9FF&line=7C6AFF&point=00D9FF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Web-dev-vishal&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/Web-dev-vishal?style=for-the-badge&color=7C6AFF&labelColor=0D1117&logo=github&label=FOLLOWERS"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
 ## 🤝 Let's Connect
 
 <div align="center">
